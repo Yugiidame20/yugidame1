@@ -1,0 +1,163 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    
+    background: #E6D7B8;
+    
+    color: #2B2118;
+    
+    font-family: 'Crimson Text', serif;
+    transition:background 0.5s ease;
+
+}
+
+body.modo-texto{
+    background:#E6D7B8;
+}
+body.modo-imagem{
+    background:#0A0A0A;
+}
+
+body.modo-imagem .imagem{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    min-height:100vh;
+}
+
+#reader{
+
+    width:100vw;
+    height: 100vh;
+    min-height:100vh;
+
+    padding:0%;
+}
+
+#page{
+
+    transition:
+    0.4s;
+
+    min-height:80vh;
+}
+
+
+/* CAPA */
+
+.capa{
+
+    text-align:center;
+}
+
+.capa img{
+
+    width:100%;
+    
+    border-radius:0 0 10px 10px;
+
+    margin-bottom:10%;
+}
+
+.capa h1{
+
+    color:#B15A38;
+
+    font-size:80%;
+
+    letter-spacing:2px;
+}
+
+.capa h2{
+
+    font-family:
+    'Playfair Display', serif;
+
+    color:#f0dfbf;
+
+    font-size:230%;
+
+    margin-top:3%;
+}
+
+/* SUMÁRIO */
+
+.sumario h1{
+
+    color:#d6b06b;
+    margin: 5% 0 10% 5%;
+    margin-bottom:10%;
+}
+
+.sumario p{
+
+    margin: 0 6% 0 5%;
+}
+
+/* TEXTO */
+
+.texto{
+    line-height:140%;
+    margin: 15% 5% 5% 5%;
+    font-size:0.98rem;
+    text-align: justify;
+    letter-spacing: 0px;
+
+    color:#2B2118;
+}
+
+.texto p:first-letter{
+
+    font-size: 1.1em;
+}
+
+.texto p{
+    margin-bottom:0.8rem;
+    text-indent: 1.5rem;
+}
+
+.texto-container{
+    min-height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+}
+.rodape-leitura{
+    margin-bottom:0rem;
+}
+.linha{
+    width:100%;
+    height:1px;
+    background:
+        linear-gradient(to right, transparent, rgba(90,70,40,0.45), transparent);
+    margin-bottom:0rem;
+}
+
+.info-rodape{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    color:#6B5A45;
+    font-size:1rem;
+    font-family:'Crimson Text', serif;
+    padding: 1% 4% 4% 4%;
+    letter-spacing: 1.5%;
+}
+.numero-pagina{
+    font-size:1.2rem;
+    opacity:0.9;
+    margin-right: 1%;
+}
+/* IMAGEM */
+
+.imagem img{
+
+    width:100%;
+
+    border-radius:16px;
+}
+
