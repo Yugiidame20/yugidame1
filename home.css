@@ -1,0 +1,254 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+
+* {margin: 0; padding: 0; box-sizing: border-box;}
+
+body{width: 100vw; height: 100vh; background-color: #02070A;
+  display:flex;
+  flex-direction: column;
+}
+
+section#intro {
+  background-color: #02070A;
+  width: 100vw;
+  height: 150vh;
+  color: white;
+}
+
+div#capa1 {
+  width: 100vw;
+  height: 70vh;
+  background-color: #120779;
+  background: top center url('Home_Imgs/Capa1.webp') fixed;
+  background-size: contain;
+  border-radius: 0 0 2% 2%;
+  box-shadow: inset 0 -25px 25px -5px  #000000;
+}
+
+#nav_basic{
+  text-align: center;
+  border-bottom: .5px solid #D6B06B29;
+}
+div#nav_home{
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 5% 0;
+  padding: 2% 4%;
+}
+#nav_home  img {
+  width: 47%;
+  margin-bottom: 10%;
+}
+
+.titulo {
+  font-family: 'Playfair Display', serif;
+  font-weight: 500;
+  font-size: 100%;
+  letter-spacing: 2px;
+  color: #d6b06b;
+  text-transform: uppercase;
+  margin-top: 5%;
+  text-align: center;
+}
+.texto {
+  font-family: 'Inter', sans-serif;
+  font-weight: 350;
+  color: #cfcfcf;
+  font-size: 85%;
+  letter-spacing: 1px;
+  line-height: 170%;
+  margin: auto;
+  width: 75%;
+}
+
+
+
+/* container */
+.divider{
+    position:relative;
+    width:85%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin: auto;
+}
+
+/* linhas */
+.divider::before,
+.divider::after{
+    content:"";
+    flex:1;
+    height: 0.5px;
+
+    background:linear-gradient(
+        to right,
+        transparent,
+        rgba(214,176,107,0.7)
+    );
+}
+
+/* inverter lado direito */
+.divider::after{
+    background:linear-gradient(
+        to left,
+        transparent,
+        rgba(214,176,107,0.7)
+    );
+}
+
+/* estrela */
+.star{
+    color:#d6b06b;
+    font-family: 'Playfair Display', serif;
+    font-size:100%;
+
+    margin:2% 5%;
+
+    text-shadow:
+        0 0 6px rgba(214,176,107,0.7),
+        0 0 12px rgba(214,176,107,0.3);
+}
+
+.bloco_nav {
+  width: 30%;
+  align-content: center;
+  font-weight: 400;
+  font-size: 80%;
+  color: #d6b06b;
+  letter-spacing: 1px;
+  font-family: 'Inter', sans-serif;
+}
+
+/* ========================= */
+/* CAPÍTULOS */
+/* ========================= */
+
+section.capitulos{
+    width:100vw;
+    padding:3% 3%;
+    background-color: #060F183B
+}
+section.capitulos .titulo {
+    margin-bottom: 5%;
+}
+
+.cap{
+    width:100%;
+}
+
+.cap_card{
+    width:100%;
+    background:#070b12;
+    border:1px solid #d6b06b23;
+    border-radius:20px;
+    display:flex;
+    box-shadow:
+    0 0 20px rgba(0,0,0,0.3);
+    overflow:hidden;
+}
+
+.cap_card img{
+    width:50%;
+    border-radius: 20px 0 0 20px;
+    object-fit:cover;
+    border-radius:12px;
+}
+
+.cap_info{
+    width:50%;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    padding: 0 0 0 5%;
+}
+
+#cap_num{
+    color:#b96f52;
+    font-family:'Inter', sans-serif;
+    font-size:70%;
+    font-weight:500;
+    margin-bottom:2%;
+}
+
+#cap_titulo{
+    font-family:'Playfair Display', serif;
+    color:#f0e0bf;
+    font-size:140%;
+    font-weight: 400;
+    margin-bottom:6%;
+}
+
+#cap_desc{
+    font-family:'Inter', sans-serif;
+    color:#b8b8b8;
+    line-height:170%;
+    font-size:78%;
+}
+
+#cap_btn{
+    margin-top:10%;
+    width:max-content;
+    padding:10px 22px;
+    border:1px solid #a7793d;
+    border-radius:8px;
+    text-decoration:none;
+    color:#d6b06b;
+    font-family:'Inter', sans-serif;
+    font-size:75%;
+
+    letter-spacing:1px;
+
+    transition:0.3s;
+}
+
+#cap_btn:hover{
+
+    background:#d6b06b15;
+}
+
+.cap_dots{
+
+    width:100%;
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:10px;
+
+    margin-top:6%;
+}
+
+.dot{
+
+    width:7px;
+
+    height:7px;
+
+    border-radius:50%;
+
+    background:#5b5b5b;
+
+    transition:0.3s;
+
+    cursor:pointer;
+}
+
+.dot.ativo{
+
+    background:#d6b06b;
+
+    box-shadow:
+    0 0 10px rgba(214,176,107,0.7);
+}
+
+.cap_card{
+
+    transition:
+    opacity 0.4s ease,
+    transform 0.4s ease;
+}
