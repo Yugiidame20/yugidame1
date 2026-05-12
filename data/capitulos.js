@@ -163,7 +163,7 @@ const capitulos = [
             tipo:"imagem",
 
             imagem:
-            "../assets/ilustrações/cen1-cap1.webp"
+            "../assets/ilustracoes/cen1-cap1.webp"
         },
         
         {
@@ -337,7 +337,7 @@ const capitulos = [
             tipo:"imagem",
 
             imagem:
-            "../assets/ilustrações/cen2-cap1.webp"
+            "../assets/ilustracoes/cen2-cap1.webp"
         },
         
         {
@@ -441,7 +441,7 @@ const capitulos = [
             tipo:"imagem",
 
             imagem:
-            "../assets/ilustrações/cen3-cap1.webp"
+            "../assets/ilustracoes/cen3-cap1.webp"
         },
         
         {
@@ -511,7 +511,7 @@ const capitulos = [
             tipo:"imagem",
 
             imagem:
-            "../assets/ilustrações/cen4-cap1.webp"
+            "../assets/ilustracoes/cen4-cap1.webp"
         },
         
         {
@@ -620,7 +620,7 @@ const capitulos = [
             tipo:"imagem",
 
             imagem:
-            "../assets/ilustrações/cen5-cap1.webp"
+            "../assets/ilustracoes/cen5-cap1.webp"
         },
         
         {
@@ -763,7 +763,7 @@ const capitulos = [
             tipo:"imagem",
 
             imagem:
-            "../assets/ilustrações/cen6-cap1.webp"
+            "../assets/ilustracoes/cen6-cap1.webp"
         },
         
         {
@@ -818,7 +818,7 @@ const capitulos = [
             tipo:"imagem",
 
             imagem:
-            "../assets/ilustrações/cen7-cap1.webp"
+            "../assets/ilustracoes/cen7-cap1.webp"
         },
 
 
