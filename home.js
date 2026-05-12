@@ -127,3 +127,65 @@ function handleSwipe(){
     }
 
 }
+
+
+const personagensHome = document.getElementById("personagens_home");
+
+const modal = document.getElementById("personagem_modal");
+const fecharModal = document.getElementById("fechar_modal");
+
+const modalImg = document.getElementById("modal_img");
+const modalNome = document.getElementById("modal_nome");
+const modalSubtitulo = document.getElementById("modal_subtitulo");
+const modalIntro = document.getElementById("modal_intro");
+const modalBtn = document.getElementById("modal_btn");
+
+function carregarPersonagensHome(){
+
+  personagens.forEach(personagem => {
+
+    const card = document.createElement("div");
+    card.classList.add("personagem-card");
+
+    card.innerHTML = `
+      <img src="${personagem.imagem}" alt="${personagem.nome}">
+
+      <div class="personagem-card-info">
+        <h2>${personagem.nome}</h2>
+        <p>${personagem.subtitulo}</p>
+      </div>
+    `;
+
+    card.addEventListener("click", () => {
+      abrirModalPersonagem(personagem);
+    });
+
+    personagensHome.appendChild(card);
+
+  });
+
+}
+
+function abrirModalPersonagem(personagem){
+
+  modalImg.src = personagem.imagem;
+  modalNome.innerText = personagem.nome;
+  modalSubtitulo.innerText = personagem.subtitulo;
+  modalIntro.innerText = personagem.intro;
+
+  modalBtn.href = `personagens/personagem.html?id=${personagem.id}`;
+
+  modal.classList.add("ativo");
+}
+
+fecharModal.addEventListener("click", () => {
+  modal.classList.remove("ativo");
+});
+
+modal.addEventListener("click", (e) => {
+  if(e.target === modal){
+    modal.classList.remove("ativo");
+  }
+});
+
+carregarPersonagensHome();

@@ -252,3 +252,238 @@ section.capitulos .titulo {
     opacity 0.4s ease,
     transform 0.4s ease;
 }
+
+
+/* ========================= */
+/* PERSONAGENS */
+/* ========================= */
+
+.personagens-section{
+  width:100vw;
+  padding:8% 5%;
+  border-top:1px solid #d6b06b18;
+}
+
+.section-title-row{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin-bottom:5%;
+}
+
+.ver-todos{
+  color:#d6b06b;
+  font-family:'Inter', sans-serif;
+  font-size:75%;
+  text-decoration:none;
+}
+
+#personagens_home{
+  display:flex;
+  gap:4%;
+  overflow-x:auto;
+  padding-bottom:5%;
+}
+
+#personagens_home::-webkit-scrollbar{
+  display:none;
+}
+
+.personagem-card{
+  min-width:40%;
+  background:#070b12;
+  border:1px solid #d6b06b25;
+  border-radius:12px;
+  overflow:hidden;
+  cursor:pointer;
+}
+
+.personagem-card img{
+  width:100%;
+  height:150px;
+  object-fit:cover;
+  display:block;
+}
+
+.personagem-card-info{
+  padding:10px 6px;
+  text-align:center;
+}
+
+.personagem-card-info h2{
+  font-family:'Playfair Display', serif;
+  font-size:85%;
+  color:#d6b06b;
+  font-weight:500;
+}
+
+.personagem-card-info p{
+  font-family:'Inter', sans-serif;
+  font-size:65%;
+  color:#bdbdbd;
+  margin-top:4px;
+}
+
+/* MODAL */
+
+.modal-personagem{
+  position:fixed;
+  inset:0;
+  background:rgba(0,0,0,0.75);
+  display:none;
+  align-items:center;
+  justify-content:center;
+  z-index:999;
+  padding:6%;
+}
+
+.modal-personagem.ativo{
+  display:flex;
+}
+
+.modal-card{
+  width:100%;
+  max-width:380px;
+  background:#070b12;
+  border:1px solid #d6b06b40;
+  border-radius:18px;
+  padding:5%;
+  position:relative;
+  box-shadow:0 0 35px rgba(0,0,0,0.8);
+}
+
+.fechar-modal{
+  position:absolute;
+  top:10px;
+  right:12px;
+  background:none;
+  border:none;
+  color:#d6b06b;
+  font-size:28px;
+}
+
+.modal-card img{
+  width:100%;
+  height:400px;
+  object-fit:cover;
+  border-radius:12px;
+  margin-bottom:5%;
+}
+
+.modal-card h2{
+  font-family:'Playfair Display', serif;
+  color:#d6b06b;
+  font-size:150%;
+}
+
+#modal_subtitulo{
+  color:#aaa;
+  font-family:'Inter', sans-serif;
+  font-size:80%;
+  margin-bottom:6%;
+}
+
+#modal_intro{
+  color:#cfcfcf;
+  font-family:'Inter', sans-serif;
+  font-size:85%;
+  line-height:1.7;
+}
+
+#modal_btn{
+  display:block;
+  margin-top:8%;
+  padding:12px;
+  border:1px solid #a7793d;
+  border-radius:7px;
+  color:#d6b06b;
+  text-align:center;
+  text-decoration:none;
+  font-family:'Inter', sans-serif;
+  font-size:75%;
+  letter-spacing:1px;
+}
+
+/* ========================= */
+/* PÁGINA COMPLETA DO PERSONAGEM */
+/* ========================= */
+
+.pagina-personagem{
+  width:100vw;
+  min-height:100vh;
+  background:#02070A;
+  color:white;
+  padding:6%;
+  font-family:'Inter', sans-serif;
+}
+
+.voltar-personagem{
+  display:block;
+  color:#d6b06b;
+  text-decoration:none;
+  margin-bottom:5%;
+}
+
+#personagem_img{
+  width:100%;
+  height:330px;
+  object-fit:cover;
+  border-radius:18px;
+  border:1px solid #d6b06b30;
+}
+
+#personagem_nome{
+  font-family:'Playfair Display', serif;
+  color:#d6b06b;
+  font-size:210%;
+  margin-top:6%;
+}
+
+#personagem_subtitulo{
+  color:#aaa;
+  margin-bottom:6%;
+}
+
+.abas-personagem{
+  display:flex;
+  gap:5%;
+  border-bottom:1px solid #d6b06b25;
+  margin-bottom:6%;
+}
+
+.aba{
+  background:none;
+  border:none;
+  color:#aaa;
+  font-family:'Inter', sans-serif;
+  font-size:75%;
+  padding:10px 0;
+}
+
+.aba.ativa{
+  color:#d6b06b;
+  border-bottom:2px solid #d6b06b;
+}
+
+#conteudo_personagem{
+  color:#cfcfcf;
+  font-size:90%;
+  line-height:1.8;
+}
+
+#conteudo_personagem p{
+  margin-bottom:1.2rem;
+}
+
+#conteudo_personagem ul{
+  list-style:none;
+  margin-top:1.5rem;
+}
+
+#conteudo_personagem li{
+  margin-bottom:0.8rem;
+}
+
+#conteudo_personagem strong{
+  color:#d6b06b;
+}

@@ -1,14 +1,97 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title></title>
+
+  <link rel="stylesheet" href="../home.css">
+
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <title>Personagem</title>
 </head>
 
 <body>
-  
+
+  <main class="pagina-personagem">
+
+    <a href="../index.html" class="voltar-personagem">‹ Voltar</a>
+
+    <img id="personagem_img" src="" alt="">
+
+    <h1 id="personagem_nome"></h1>
+    <p id="personagem_subtitulo"></p>
+
+    <div class="abas-personagem">
+      <button class="aba ativa" data-aba="sobre">SOBRE</button>
+      <button class="aba" data-aba="historia">HISTÓRIA</button>
+      <button class="aba" data-aba="curiosidades">CURIOSIDADES</button>
+    </div>
+
+    <section id="conteudo_personagem"></section>
+
+  </main>
+
+  <script src="../data/personagens.js"></script>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const id = parseInt(params.get("id")) || 1;
+
+    const personagem = personagens.find(p => p.id === id);
+
+    const img = document.getElementById("personagem_img");
+    const nome = document.getElementById("personagem_nome");
+    const subtitulo = document.getElementById("personagem_subtitulo");
+    const conteudo = document.getElementById("conteudo_personagem");
+
+    img.src = "../" + personagem.imagem;
+    nome.innerText = personagem.nome;
+    subtitulo.innerText = personagem.subtitulo;
+
+    function mostrarAba(tipo){
+
+      if(tipo === "sobre"){
+        conteudo.innerHTML = `
+          <p>${personagem.intro}</p>
+
+          <ul>
+            <li><strong>Idade:</strong> ${personagem.idade}</li>
+            <li><strong>Altura:</strong> ${personagem.altura}</li>
+            <li><strong>Elemento:</strong> ${personagem.elemento}</li>
+            <li><strong>Arma:</strong> ${personagem.arma}</li>
+          </ul>
+        `;
+      }
+
+      if(tipo === "historia"){
+        conteudo.innerHTML = personagem.historia
+          .map(paragrafo => `<p>${paragrafo}</p>`)
+          .join("");
+      }
+
+      if(tipo === "curiosidades"){
+        conteudo.innerHTML = `
+          <p>Curiosidades deste personagem serão adicionadas futuramente.</p>
+        `;
+      }
+    }
+
+    document.querySelectorAll(".aba").forEach(botao => {
+      botao.addEventListener("click", () => {
+
+        document.querySelectorAll(".aba").forEach(b => b.classList.remove("ativa"));
+        botao.classList.add("ativa");
+
+        mostrarAba(botao.dataset.aba);
+      });
+    });
+
+    mostrarAba("sobre");
+  </script>
+
 </body>
 
 </html>
