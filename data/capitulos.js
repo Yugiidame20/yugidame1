@@ -163,7 +163,7 @@ const capitulos = [
             tipo:"imagem",
 
             imagem:
-            "assets/ilustracoes/cen1-cap1.webp"
+            "assets/ilustracoes/cen1cap1.webp"
         },
         
         {
