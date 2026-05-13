@@ -92,6 +92,53 @@
     mostrarAba("sobre");
   </script>
 
+
+<script src="../data/personagens.js"></script>
+
+<script>
+const params = new URLSearchParams(window.location.search);
+const id = parseInt(params.get("id")) || 1;
+
+const personagem = personagens.find(p => p.id === id);
+
+document.getElementById("personagem_img").src = "../" + personagem.imagem;
+document.getElementById("personagem_nome").innerText = personagem.nome;
+document.getElementById("personagem_subtitulo").innerText = personagem.subtitulo;
+
+const conteudo = document.getElementById("conteudo_personagem");
+
+function mostrarAba(aba){
+  if(aba === "sobre"){
+    conteudo.innerHTML = `
+      <p>${personagem.intro}</p>
+      <p><strong>IDADE:</strong> ${personagem.idade}</p>
+      <p><strong>ALTURA:</strong> ${personagem.altura}</p>
+      <p><strong>ELEMENTO:</strong> ${personagem.elemento}</p>
+      <p><strong>ARMA:</strong> ${personagem.arma}</p>
+    `;
+  }
+
+  if(aba === "historia"){
+    conteudo.innerHTML = personagem.historia
+      .map(p => `<p>${p}</p>`)
+      .join("");
+  }
+
+  if(aba === "curiosidades"){
+    conteudo.innerHTML = `<p>Curiosidades serão adicionadas futuramente.</p>`;
+  }
+}
+
+document.querySelectorAll(".aba").forEach(botao => {
+  botao.onclick = () => {
+    document.querySelectorAll(".aba").forEach(b => b.classList.remove("ativa"));
+    botao.classList.add("ativa");
+    mostrarAba(botao.dataset.aba);
+  };
+});
+
+mostrarAba("sobre");
+</script>
 </body>
 
 </html>
