@@ -18,6 +18,11 @@ const personagens = [
       "Quieto e observador, Yugidame sempre enxergou o peso das pessoas antes mesmo de entender o próprio. Mesmo carregando dúvidas e inseguranças, existe nele uma firmeza difícil de quebrar: a recusa em aceitar injustiças como algo normal. Sua jornada começa tentando apenas sobreviver ao mundo ao redor, mas pouco a pouco ele percebe que foi colocado diante de algo muito maior do que si mesmo. Entre cicatrizes, escolhas e responsabilidades que nunca pediu, Yugi caminha tentando se tornar alguém capaz de proteger sem perder a própria humanidade.",
       
       "Depois de ser atingido por um raio, algo dentro dele desperta. Mas o verdadeiro conflito não está apenas no poder: está em decidir que tipo de homem ele vai se tornar."
+    ],
+    
+    curiosidades: [
+      `@`,
+      "b"
     ]
   },
 

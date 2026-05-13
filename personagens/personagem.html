@@ -72,10 +72,13 @@
           .join("");
       }
 
-      if(tipo === "curiosidades"){
-        conteudo.innerHTML = `
-          <p>Curiosidades deste personagem serão adicionadas futuramente.</p>
-        `;
+      if (aba === "curiosidades") {
+  
+        conteudo.innerHTML = personagem.curiosidades
+        .map(curiosidade =>
+        `<p>• ${curiosidade}</p>`)
+        .join("");
+  
       }
     }
 
