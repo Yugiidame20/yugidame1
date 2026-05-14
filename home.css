@@ -536,14 +536,14 @@ section.capitulos .titulo {
 /* ========================= */
 
 .botao-menu{
-  position:fixed;
-  top:18px;
+  position: absolute;
+  top:10px;
   left:18px;
   z-index:800;
   background:none;
   border:none;
   color:#d6b06b;
-  font-size:28px;
+  font-size:25px;
 }
 
 #menu_overlay{
@@ -778,4 +778,91 @@ section.capitulos .titulo {
 
 .submenu a:hover{
   color:#d6b06b;
+}
+
+
+/* ========================= */
+/* UNIVERSO */
+/* ========================= */
+
+#universo_section{
+  width:100vw;
+  display:flex;
+  justify-content:space-between;
+  gap:5%;
+
+  padding:8% 3%;
+
+  border-top:1px solid #d6b06b18;
+}
+
+.universo-info{
+  width:50%;
+}
+
+.universo-info .titulo{
+  text-align:left;
+  line-height:125%;
+  margin:0;
+  font-size: 0.8rem;
+}
+
+.universo-info .divider{
+  margin:3% 0;
+}
+
+.universo-info .texto{
+  width:100%;
+  text-align:left;
+  line-height:155%;
+  font-size: 0.8rem;
+}
+
+.btn-universo{
+
+  margin-top:10%;
+
+  width:100%;
+
+  padding:14px;
+
+  border-radius:6px;
+
+  border:1px solid #9b6d33;
+
+  background:
+  linear-gradient(
+    180deg,
+    rgba(82, 49, 20, 0.5),
+    rgba(64, 27, 8, 0.56),
+    rgba(82, 49, 20, 0.08)
+  );
+
+  color:#e2bf86;
+
+  font-family:'Inter', sans-serif;
+
+  font-size:55%;
+
+  font-weight:600;
+
+  letter-spacing:1px;
+}
+
+.universo-img{
+  width:52%;
+  height: 60%;
+}
+
+.universo-img img{
+  width:100%;
+  height: 150%;
+  border-radius:18px;
+  margin-top: 0;
+  display:flex;
+
+  border:1px solid #d6b06b20;
+
+  box-shadow:
+  0 0 30px rgba(0,0,0,0.55);
 }
