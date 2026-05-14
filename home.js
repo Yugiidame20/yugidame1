@@ -196,7 +196,6 @@ const abrirMenu = document.getElementById("abrir_menu");
 const fecharMenu = document.getElementById("fechar_menu");
 const menuLateral = document.getElementById("menu_lateral");
 const menuOverlay = document.getElementById("menu_overlay");
-const menuConteudo = document.getElementById("menu_conteudo");
 const menuItens = document.querySelectorAll(".menu-item");
 
 abrirMenu.onclick = abrirMenuLateral;
@@ -223,137 +222,77 @@ menuItens.forEach(item => {
   });
 });
 
-function carregarPainelMenu(section){
+/* ========================= */
+/* SUBMENUS */
+/* ========================= */
 
-  if(section === "inicio"){
-    menuConteudo.innerHTML = `
-      <div class="menu-painel">
-        <h2>Sobre Yugidame</h2>
+const menuGrupos =
+document.querySelectorAll(".menu-grupo");
 
-        <div class="menu-card">
-          <p>Yugidame não nasceu especial. Foi moldado pela dor, pela perda e pela vontade de mudar o que acha errado.</p>
-        </div>
-      </div>
-    `;
-  }
+menuGrupos.forEach(grupo => {
 
-  if(section === "historia"){
-    menuConteudo.innerHTML = `
-      <div class="menu-painel">
-        <h2>Capítulos</h2>
+  const botao =
+  grupo.querySelector(".menu-item");
 
-        <div class="menu-mini-lista">
-          ${capitulos.map(cap => `
-            <a class="menu-link-capitulo" href="leitor.html?id=${cap.id}">
-              <span>${cap.numero} — ${cap.titulo}</span>
-              <span>›</span>
-            </a>
-          `).join("")}
-        </div>
-      </div>
-    `;
-  }
+  botao.addEventListener("click", () => {
 
-  if(section === "personagens"){
-    menuConteudo.innerHTML = `
-      <div class="menu-painel">
-        <h2>Personagens</h2>
+    const aberto =
+    grupo.classList.contains("aberto");
 
-        ${personagens.map(p => `
-          <div class="menu-card">
-            <a href="personagens/personagem.html?id=${p.id}">
-              ${p.nome}
-            </a>
-            <p>${p.subtitulo}</p>
-          </div>
-        `).join("")}
-      </div>
-    `;
-  }
+    menuGrupos.forEach(g => {
 
-  if(section === "universo"){
-    menuConteudo.innerHTML = `
-      <div class="menu-painel">
-        <h2>Universo</h2>
+      g.classList.remove("aberto");
 
-        <div class="menu-card">
-          <a href="#">A Região dos Montes Ocidentais</a>
-          <p>Local de fenômenos naturais intensos e segredos antigos que poucos ousaram explorar.</p>
-        </div>
+      g.querySelector(".menu-item")
+      .classList.remove("ativo");
 
-        <div class="menu-card">
-          <a href="#">Cidades em ruínas</a>
-          <p>Lugares esquecidos onde antigas forças ainda parecem respirar.</p>
-        </div>
-      </div>
-    `;
-  }
+    });
 
-  if(section === "criacao"){
-    menuConteudo.innerHTML = `
-      <div class="menu-painel">
-        <h2>Criação</h2>
+    if(!aberto){
 
-        <div class="menu-card">
-          <a href="#">Processo criativo</a>
-          <p>Veja ideias, bastidores, conceitos descartados e evolução visual do projeto.</p>
-        </div>
+      grupo.classList.add("aberto");
 
-        <div class="menu-card">
-          <a href="#">Design dos personagens</a>
-          <p>Notas sobre roupas, símbolos, armas, personalidade e construção visual.</p>
-        </div>
-      </div>
-    `;
-  }
+      botao.classList.add("ativo");
 
-  if(section === "curiosidades"){
-    menuConteudo.innerHTML = `
-      <div class="menu-painel">
-        <h2>Curiosidades</h2>
+    }
 
-        <div class="menu-card">
-          <p>A espada encontrada por Yugidame no morro não é apenas uma arma comum.</p>
-        </div>
+  });
 
-        <div class="menu-card">
-          <p>Algumas cicatrizes dos personagens possuem significado dentro da história.</p>
-        </div>
-      </div>
-    `;
-  }
+});
 
-  if(section === "galeria"){
-    menuConteudo.innerHTML = `
-      <div class="menu-painel">
-        <h2>Galeria</h2>
 
-        <div class="menu-card">
-          <a href="#">Artes principais</a>
-          <p>Ilustrações, cenas, conceitos e imagens do universo.</p>
-        </div>
-      </div>
-    `;
-  }
+/* HISTÓRIA */
 
-  if(section === "noticias"){
-    menuConteudo.innerHTML = `
-      <div class="menu-painel">
-        <h2>Notícias</h2>
+const submenuHistoria =
+document.getElementById("submenu-historia");
 
-        <div class="menu-card">
-          <a href="#">Capítulo 1 disponível</a>
-          <p>“Mais um dia” já pode ser lido.</p>
-        </div>
+submenuHistoria.innerHTML =
+capitulos.map(cap => `
 
-        <div class="menu-card">
-          <a href="#">Atualização do site</a>
-          <p>Novas seções e melhorias na experiência.</p>
-        </div>
-      </div>
-    `;
-  }
+<a href="leitor.html?id=${cap.id}">
 
-}
+${cap.numero} — ${cap.titulo}
+
+</a>
+
+`).join("");
+
+
+
+/* PERSONAGENS */
+
+const submenuPersonagens =
+document.getElementById("submenu-personagens");
+
+submenuPersonagens.innerHTML =
+personagens.map(p => `
+
+<a href="personagens/personagem.html?id=${p.id}">
+
+${p.nome}
+
+</a>
+
+`).join("");
 
 carregarPainelMenu("inicio");
