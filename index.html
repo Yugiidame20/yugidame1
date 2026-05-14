@@ -11,6 +11,8 @@
 </head>
 
 <body>
+  <button id="abrir_menu" class="botao-menu">☰</button>
+  
   <section id="intro">
     <div id="capa1"></div>
     
@@ -110,6 +112,70 @@
 
   </div>
 </div>
+
+
+
+<div id="menu_overlay"></div>
+
+<aside id="menu_lateral">
+
+  <button id="fechar_menu" class="fechar-menu">×</button>
+
+  <div class="menu-topo">
+
+    <img
+  src="Home_Imgs/fundo-menu.webp"
+  alt="Yugidame">
+
+</div>
+
+  <nav class="menu-lista">
+
+    <button class="menu-item ativo" data-section="inicio">
+      <img src="Home_Imgs/Icon-home.png" alt="">
+      <span>INÍCIO</span>
+    </button>
+
+    <button class="menu-item" data-section="historia">
+      <img src="Home_Imgs/Icon-hist.png" alt="">
+      <span>HISTÓRIA</span>
+    </button>
+
+    <button class="menu-item" data-section="personagens">
+      <img src="Home_Imgs/Icon-pers.png" alt="">
+      <span>PERSONAGENS</span>
+    </button>
+
+    <button class="menu-item" data-section="universo">
+      <img src="Home_Imgs/Icon-uni.png" alt="">
+      <span>UNIVERSO</span>
+    </button>
+
+    <button class="menu-item" data-section="criacao">
+      <img src="Home_Imgs/Icon-criacao.png" alt="">
+      <span>CRIAÇÃO</span>
+    </button>
+
+    <button class="menu-item" data-section="curiosidades">
+      <img src="Home_Imgs/Icon-curio.png" alt="">
+      <span>CURIOSIDADES</span>
+    </button>
+
+    <button class="menu-item" data-section="galeria">
+      <img src="Home_Imgs/Icon-galeria.png" alt="">
+      <span>GALERIA</span>
+    </button>
+
+    <button class="menu-item" data-section="noticias">
+      <img src="Home_Imgs/Icon-news.png" alt="">
+      <span>NOTÍCIAS</span>
+    </button>
+
+  </nav>
+
+  <div id="menu_conteudo"></div>
+
+</aside>
     
   <script src="data/personagens.js"></script>
   <script src="data/capitulos.js"></script>

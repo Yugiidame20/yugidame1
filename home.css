@@ -529,3 +529,189 @@ section.capitulos .titulo {
   background:linear-gradient(180deg, #4a2d15, #090b0f);
   box-shadow:inset 0 -2px 0 #d6b06b;
 }
+
+
+/* ========================= */
+/* MENU LATERAL */
+/* ========================= */
+
+.botao-menu{
+  position:fixed;
+  top:18px;
+  left:18px;
+  z-index:800;
+  background:none;
+  border:none;
+  color:#d6b06b;
+  font-size:28px;
+}
+
+#menu_overlay{
+  position:fixed;
+  inset:0;
+  background:rgba(0,0,0,0.65);
+  z-index:900;
+  display:none;
+}
+
+#menu_overlay.ativo{
+  display:block;
+}
+
+#menu_lateral{
+  position:fixed;
+  top:0;
+  left:-82vw;
+  width:71vw;
+  height:100vh;
+  background:linear-gradient(180deg, #05090d, #02070A);
+  border-right:1px solid #d6b06b35;
+  z-index:1000;
+  padding:7% 5%;
+  transition:0.35s ease;
+  overflow-y:auto;
+  box-shadow:10px 0 40px rgba(0,0,0,0.7);
+}
+
+#menu_lateral.ativo{
+  left:0;
+}
+
+.fechar-menu{
+  position:absolute;
+  top:15px;
+  right:15px;
+  background:none;
+  border:none;
+  color:#d6b06b;
+  font-size:30px;
+}
+
+
+.menu-topo{
+  width:100%;
+}
+
+.menu-topo img{
+  width:100%;
+  display:flex;
+  object-fit:contain;
+}
+
+.menu-lista{
+  display:flex;
+  flex-direction:column;
+  gap:8px;
+}
+
+.menu-item{
+  width:100%;
+  display:flex;
+  align-items:center;
+  gap:16px;
+  padding:13px 14px;
+  background:transparent;
+  border:none;
+  color:#cfcfcf;
+  font-family:'Inter', sans-serif;
+  font-size:0.82rem;
+  font-weight:600;
+  letter-spacing:1px;
+  text-align:left;
+  position:relative;
+}
+
+.menu-item img{
+  width:22px;
+  height:22px;
+  object-fit:contain;
+  opacity:0.85;
+}
+
+.menu-item.ativo{
+  color:#f0d19b;
+  background:linear-gradient(
+    90deg,
+    rgba(105,68,32,0.55),
+    rgba(105,68,32,0.18),
+    transparent
+  );
+  border-left:1px solid #d6b06b;
+}
+
+.menu-item.ativo img{
+  opacity:1;
+  filter:drop-shadow(0 0 6px rgba(214,176,107,0.5));
+}
+
+#menu_conteudo{
+  margin-top:14%;
+  padding-top:10%;
+  border-top:1px solid #d6b06b25;
+}
+
+/* PAINÉIS DO MENU */
+
+.menu-painel h2{
+  font-family:'Playfair Display', serif;
+  color:#d6b06b;
+  font-size:1.15rem;
+  text-align:center;
+  margin-bottom:18px;
+  text-transform:uppercase;
+}
+
+.menu-card{
+  background:rgba(255,255,255,0.02);
+  border:1px solid #d6b06b22;
+  border-radius:12px;
+  padding:12px;
+  margin-bottom:12px;
+}
+
+.menu-card a,
+.menu-card button{
+  color:#d6b06b;
+  text-decoration:none;
+  background:none;
+  border:none;
+  font-family:'Inter', sans-serif;
+  font-size:0.8rem;
+  display:block;
+  width:100%;
+  text-align:left;
+}
+
+.menu-card p{
+  color:#bcbcbc;
+  font-family:'Inter', sans-serif;
+  font-size:0.78rem;
+  line-height:1.6;
+  margin-top:8px;
+}
+
+.menu-card img{
+  width:100%;
+  border-radius:10px;
+  margin-top:10px;
+}
+
+.menu-mini-lista{
+  display:flex;
+  flex-direction:column;
+  gap:9px;
+}
+
+.menu-link-capitulo{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:12px;
+  background:linear-gradient(90deg, rgba(95,57,25,0.45), rgba(10,13,18,0.8));
+  border:1px solid #d6b06b20;
+  border-radius:8px;
+  color:#e0c08b;
+  text-decoration:none;
+  font-family:'Inter', sans-serif;
+  font-size:0.78rem;
+}
