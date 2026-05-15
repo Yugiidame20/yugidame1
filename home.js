@@ -303,45 +303,14 @@ carregarPainelMenu("inicio");
 /* POPUP CAP 2 */
 /* ========================= */
 
-const popupCap2 =
-document.getElementById("popup_cap2");
+const popupCap2 = document.getElementById("popup_cap2");
 
-const fecharPopup =
-document.getElementById("fechar_popup");
-
-/* MOSTRAR SÓ PRIMEIRA VEZ */
-
-if(
-  !localStorage.getItem(
-    "popup_cap2_visto"
-  )
-){
-
+if(!localStorage.getItem("popup_cap2_visto")){
   setTimeout(() => {
-
     popupCap2.classList.add("ativo");
-
   }, 700);
-
 }
 
-
-/* FECHAR */
-
-function fecharPopupFunc(){
-
-  popupCap2.classList.remove("ativo");
-
-  localStorage.setItem(
-    "popup_cap2_visto",
-    "sim"
-  );
+function fecharPopupCap2Func(){
+  document.getElementById('popup_cap2').style.display = 'none'
 }
-
-fecharPopup.onclick =
-fecharPopupFunc;
-
-popupCap2
-.querySelector(".popup_overlay")
-.onclick =
-fecharPopupFunc;

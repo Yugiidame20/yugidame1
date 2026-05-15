@@ -872,19 +872,12 @@ section.capitulos .titulo {
 /* ========================= */
 
 #popup_cap2{
-
   position:fixed;
-
   inset:0;
-
   z-index:5000;
-
-  display:none;
-
+  display:flex;
   align-items:center;
-
   justify-content:center;
-
   padding:5%;
 }
 
@@ -898,14 +891,10 @@ section.capitulos .titulo {
 /* FUNDO ESCURO */
 
 .popup_overlay{
-
   position:absolute;
-
   inset:0;
-
   background:
-  rgba(0,0,0,0.82);
-
+  rgba(0, 0, 0, 0.75);
   backdrop-filter:
   blur(6px);
 }
@@ -914,15 +903,11 @@ section.capitulos .titulo {
 /* CONTAINER */
 
 .popup_container{
-
   position:relative;
-
   width:100%;
 
   max-width:900px;
-
   z-index:2;
-
   animation:
   popupFade .45s ease;
 }
@@ -931,16 +916,11 @@ section.capitulos .titulo {
 /* IMAGEM */
 
 .popup_container img{
-
   width:100%;
-
   display:block;
-
   border-radius:22px;
-
   border:
   1px solid rgba(214,176,107,0.18);
-
   box-shadow:
   0 0 60px rgba(0,0,0,0.7);
 }
@@ -948,23 +928,17 @@ section.capitulos .titulo {
 
 /* BOTÃO FECHAR */
 
-#fechar_popup{
+#fechar_popup_cap2{
 
   position:absolute;
-
   top:-12px;
   right:-12px;
-
   width:42px;
   height:42px;
-
   border:none;
-
   border-radius:50%;
-
   background:
   rgba(0,0,0,0.92);
-
   color:#d6b06b;
 
   font-size:30px;
@@ -979,15 +953,34 @@ section.capitulos .titulo {
 /* ANIMAÇÃO */
 
 @keyframes popupFade{
-
   from{
     opacity:0;
     transform:scale(.92);
   }
-
   to{
     opacity:1;
     transform:scale(1);
   }
 
+}
+
+#fechar_popup_cap2{
+  position:absolute;
+  top:-20px;
+  right:-12px;
+
+  width:42px;
+  height:42px;
+
+  z-index:99999;
+
+  border:none;
+  border-radius:50%;
+
+  background:rgba(0,0,0,0.92);
+  color:#d6b06b;
+
+  font-size:30px;
+
+  pointer-events:auto;
 }
