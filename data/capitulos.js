@@ -848,10 +848,42 @@ const capitulos = [
         {
             tipo:"texto",
 
-            conteudo:
-            `
-            A chuva caiu violentamente.
-            `
+            conteudo: [
+                `A floresta começou devagar.`,
+                
+                `Não houve momento exato em que Yugidame pudesse dizer que havia deixado a cidade para trás, porque a cidade não terminava de uma vez. Ela apenas enfraquecia aos poucos, como uma voz ficando distante depois de uma discussão longa demais. Primeiro desapareceram as lojas iluminadas e os fios cruzando os postes; depois as casas ficaram mais separadas umas das outras, escondidas atrás de muros baixos e terrenos úmidos; por fim, até mesmo o asfalto cedeu lugar à terra escura e irregular, coberta de folhas molhadas pela chuva da noite anterior. Quando percebeu, Yugi já avançava entre árvores altas demais para deixarem o céu existir completamente acima de sua cabeça.`,
+                
+                `Continuou andando porque ainda não sabia fazer outra coisa além de continuar.`,
+                
+                `Seu corpo já estava exausto havia muito tempo. As pernas doíam, os ombros queimavam sob o peso da mochila, e a espada presa junto às costas parecia mais pesada a cada quilômetro percorrido.Ainda assim, havia dentro dele uma urgência difícil de explicar, como se parar significasse permitir que tudo o alcançasse outra vez.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Não queria pensar na escola. Não queria lembrar dos corredores silenciosos depois da briga, nem do som seco do corpo de Wynna atingindo os armários metálicos, nem da expressão de Ryota quando percebeu, tarde demais, que Yugi havia deixado de recuar.`,
+                
+                `Mas as lembranças insistiam.`,
+                
+                `Voltavam fragmentadas, misturadas ao som de seus próprios passos sobre galhos partidos e barro úmido. O brilho laranja refletido nas vitrines molhadas da cidade ainda parecia preso atrás de seus olhos. Havia também a sensação de suas mãos — não apenas fortes, mas violentas. Aquilo o perturbava mais do que gostaria de admitir. Desde criança aprendera a abaixar a cabeça, evitar conflitos, ceder antes que as coisas piorassem. E, no entanto, naquele corredor, por alguns instantes, sentira uma espécie de clareza brutal atravessando o corpo inteiro. Não era raiva comum. Era algo mais fundo. Mais antigo. Uma força tão natural quanto assustadora.`,
+                
+                `Yugi apertou os dedos contra o cabo da espada preso às costas enquanto caminhava. Ainda parecia absurdo que estivesse carregando aquilo.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Uma espada verdadeira. Longa, elegante e silenciosa, com o cabo negro adornado por pequenos losangos escarlates alinhados verticalmente como marcas antigas de algum artesão já morto havia séculos. Não fazia sentido. Nada daquilo fazia.`,
+                
+                `A floresta, entretanto, não parecia interessada em oferecer explicações.`,
+                
+                `Ela apenas existia`,
+                `Imensa, úmida e profundamente viva.`,
+                
+                `O vento atravessava as copas altas produzindo um som contínuo, semelhante à respiração lenta de alguma criatura adormecida. Pequenos insetos vibravam escondidos entre as folhas. O cheiro da terra molhada misturava-se ao odor limpo da madeira úmida e da vegetação fechada. Em alguns momentos, Yugi tinha a impressão de que a própria mata o observava, não com hostilidade, mas com a indiferença antiga de algo que existia muito antes dele nascer.`
+            ]
         }
 
     ]
