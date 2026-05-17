@@ -830,21 +830,19 @@ const capitulos = [
 
     numero:"CAPÍTULO 2",
 
-    titulo:"TEMPESTADE",
+    titulo:"DOMÍNIO",
 
     descricao:
-    "EM PRODUÇÃO",
+    "Fugindo do próprio poder, Yugi encontra no coração da floresta algo maior que o medo. Entre águas silenciosas e sombras ocultas, inicia sua transformação.",
 
-    imagem:"Home_Imgs/cap2.jpg",
+    imagem:"Home_Imgs/cap2.webp",
 
     paginas:[
 
         {
             tipo:"capa",
 
-            titulo:"TEMPESTADE",
-
-            imagem:"Home_Imgs/cap2.jpg"
+            imagem:"Home_Imgs/cap2.webp"
         },
 
         {

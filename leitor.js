@@ -22,22 +22,23 @@ function renderizarPagina(){
     "modo-imagem"
     );
 
-    /* CAPA */
-    if(pagina.tipo === "capa"){
+   /* CAPA */
 
-        page.innerHTML = `
+if(pagina.tipo === "capa"){
 
-        <div class="capa">
+    page.innerHTML = `
 
-            <img src="${pagina.imagem}">
+    <div class="capa">
 
-            <h1>${capitulo.numero}</h1>
+        <img
+        src="${pagina.imagem}"
+        class="img_capa">
 
-            <h2>${pagina.titulo}</h2>
+    </div>
 
-        </div>
-        `;
-    }
+    `;
+
+}
 
     /* SUMÁRIO */
     else if(pagina.tipo === "sumario"){

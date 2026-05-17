@@ -47,41 +47,35 @@ body.modo-imagem .imagem{
 }
 
 
-/* CAPA */
+/* PÁGINA DE CAPA */
 
 .capa{
 
-    text-align:center;
+    width:100%;
+    height:100vh;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    background:#050608;
+
+    overflow:hidden;
+
 }
 
-.capa img{
+/* IMAGEM */
+
+.img_capa{
 
     width:100%;
-    
-    border-radius:0 0 10px 10px;
 
-    margin-bottom:10%;
-}
+    height:100%;
 
-.capa h1{
+    object-fit:contain;
 
-    color:#B15A38;
-
-    font-size:80%;
-
-    letter-spacing:2px;
-}
-
-.capa h2{
-
-    font-family:
-    'Playfair Display', serif;
-
-    color:#f0dfbf;
-
-    font-size:230%;
-
-    margin-top:3%;
 }
 
 /* SUMÁRIO */
