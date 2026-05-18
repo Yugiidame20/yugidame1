@@ -882,7 +882,250 @@ const capitulos = [
                 `Ela apenas existia`,
                 `Imensa, úmida e profundamente viva.`,
                 
-                `O vento atravessava as copas altas produzindo um som contínuo, semelhante à respiração lenta de alguma criatura adormecida. Pequenos insetos vibravam escondidos entre as folhas. O cheiro da terra molhada misturava-se ao odor limpo da madeira úmida e da vegetação fechada. Em alguns momentos, Yugi tinha a impressão de que a própria mata o observava, não com hostilidade, mas com a indiferença antiga de algo que existia muito antes dele nascer.`
+                `O vento atravessava as copas altas produzindo um som contínuo, semelhante à respiração lenta de alguma criatura adormecida. Pequenos insetos vibravam escondidos entre as folhas. O cheiro da terra molhada misturava-se ao odor limpo da madeira úmida e da vegetação fechada. Em alguns momentos, Yugi tinha a impressão de que a própria mata o observava, não com hostilidade, mas com a indiferença antiga de algo que existia muito antes dele nascer.`,
+                
+                `Foi quando ouviu a água.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `No começo era apenas um ruído distante, quase imperceptível sob o som do vento. Depois tornou-se mais claro, contínuo, preenchendo os espaços vazios da madrugada com uma presença estranhamente tranquila. Yugi ergueu levemente a cabeça. Sem perceber, começou a seguir naquela direção.`,
+                
+                `Talvez porque estivesse cansado demais para procurar outro caminho.`,
+                
+                `Talvez porque, pela primeira vez naquela noite, alguma coisa não parecesse ameaçadora.`,
+                
+                `As árvores começaram a se abrir lentamente. A vegetação tornou-se mais úmida. Pedras escuras surgiram entre as raízes grossas atravessando o chão. Então o riacho apareceu diante dele, estreito e cristalino, deslizando entre rochas cobertas de musgo enquanto a luz pálida da lua se quebrava sobre a correnteza em reflexos trêmulos.`,
+                
+                `Yugi aproximou-se devagar e ajoelhou-se perto da margem. Quando mergulhou as mãos na água, o frio atravessou seus dedos imediatamente, intenso o bastante para fazê-lo prender a respiração por um instante. Lavou o rosto, deixou a água escorrer pelos cabelos e permaneceu curvado sobre o riacho durante alguns segundos, ouvindo apenas o som da correnteza.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Foi então que percebeu o quanto estava cansado.`,
+                
+                `Não apenas fisicamente.`,
+                
+                `Cansado de tentar parecer menor do que realmente era. Cansado de medir palavras, esconder pensamentos, abaixar os olhos, suportar coisas que lentamente haviam começado a apodrecer dentro dele. Pela primeira vez em muito tempo, não havia ninguém esperando alguma reação sua. Nenhum olhar o julgando. Nenhuma necessidade de explicar a si mesmo.`,
+                
+                `Só a água.`,
+                `Só o vento.`,
+                `Só a floresta.`,
+
+                `Seguiu o riacho até encontrar a cachoeira.`,
+                
+                `Ela não era gigantesca, mas havia nela uma beleza silenciosa difícil de ignorar. A água descia entre paredões escuros cobertos de raízes antigas e musgo úmido, formando uma névoa fina que pairava constantemente sobre as pedras ao redor. O som preenchia toda a clareira, profundo e contínuo, abafando o resto da floresta de maneira quase hipnótica.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Yugi deixou a mochila cair perto de uma rocha larga e sentou-se lentamente. O corpo inteiro pareceu afundar contra a pedra fria. As pernas tremiam discretamente agora que finalmente havia parado. O peito subia e descia devagar enquanto ele observava a água despencando sem descanso diante de si.`,
+                
+                `No começo ainda havia barulho demais dentro de sua cabeça.`,
+
+                `Ryota sorrindo.`,
+
+                `Wynna chorando.`,
+
+                `Kazuki tentando impedir tudo de piorar.`,
+
+                `A sensação do próprio punho esmagando o rosto de alguém.`,
+                
+                `Mas a água continuava caindo. O vento continuava atravessando as árvores. Insetos continuavam vibrando escondidos na vegetação.`,
+                
+                `Pouco a pouco, os sons começaram a se separar dentro dele. O riacho correndo sobre as pedras. O ruído distante das folhas balançando nas copas. Sua própria respiração desacelerando. As batidas do coração deixando de soar como um tambor desesperado.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Yugi fechou os olhos lentamente.`,
+                `Sentiu o ar frio tocar sua pele úmida. Sentiu a tensão abandonando seus ombros aos poucos. Sentiu cada músculo do corpo finalmente perceber que não precisava mais correr.`,
+                
+                `E foi exatamente nesse instante, quando sua guarda finalmente baixou, que alguma coisa mudou.`,
+                
+                `O som da cachoeira tornou - se mais grave.`,
+
+                `Não completamente diferente.Apenas… profundo demais.`,
+
+                `Como se existisse outro som escondido atrás da água.`,
+
+                `Yugi abriu os olhos devagar.`,
+                
+                `A névoa diante da queda d’água parecia mais densa agora. Mais escura. O ar havia ficado pesado de uma maneira difícil de explicar. O corpo inteiro dele enrijeceu instintivamente.`,
+                
+                `Então viu.`,
+                `Dois pontos laranja surgiram dentro da névoa.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Imensos.`,`Distantes.`,`Observando.`,`Yugi não conseguiu respirar por um instante.`,
+                
+                `A sensação não era exatamente medo. Era algo pior. Era a percepção brutal de tamanho. De presença. Como se estivesse diante de alguma coisa tão antiga e colossal que sua própria existência parecesse pequena demais para ser notada.`,
+                
+                `A névoa moveu-se lentamente.`,
+                
+                `Por um breve segundo, Yugi achou enxergar parte de um rosto gigantesco escondido atrás da escuridão — listras atravessadas por chamas azuis opacas, olhos queimando como brasas silenciosas, um focinho colossal parcialmente encoberto pela névoa.`,
+                
+                `Então tudo desapareceu.`,`A cachoeira voltou a soar como água comum.`,`O vento voltou a atravessar as árvores normalmente.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Mas Yugi permaneceu imóvel durante muito tempo, encarando o vazio diante da queda d’água enquanto sentia o coração pulsar pesado dentro do peito.`,
+                
+                `Naquela madrugada, sozinho diante da cachoeira, Yugidame compreendeu pela primeira vez que o mundo era muito maior do que imaginava.`
+            ]
+        },
+        
+        {
+            tipo: "imagem",
+            imagem: 
+                "assets/ilustracoes/cen1-cap2.webp"
+            
+        },
+        {
+            tipo: "imagem",
+            imagem: "assets/ilustracoes/cen2-cap2.webp"
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Na primeira manhã depois da visão, desceu até o riacho com as pernas pesadas e os olhos ardendo. O mundo continuava igual. A água seguia correndo. Os insetos continuavam cantando. A floresta não parecia ter percebido que algo impossível havia acontecido durante a noite.`,
+                
+                `Quando o sol voltou a nascer entre as copas altas da floresta, derramando luz dourada sobre o rio frio, Yugidame já não parecia o mesmo garoto que entrara ali correndo, ofegante e quebrado. Mas também estava longe de ser alguém novo. Havia algo estranho naquele estado intermediário. Como uma ponte suspensa entre duas margens. Atrás dele permanecia a cidade, as palavras que feriam, os corredores, as lembranças, os rostos. À frente havia apenas árvores, pedra, água e o desconhecido.`,
+                
+                `Não havia grandeza. Não havia revelação. Não havia aquele heroísmo bonito que as histórias costumavam prometer.`,
+                
+                `Havia fome. Havia frio. Havia erros.`,
+                
+                `Yugidame descobriu isso cedo.`,
+                
+                `Desceu até o riacho ainda sonolento. O corpo doía inteiro. As pernas pareciam pesadas como madeira molhada. Os ombros ardiam por causa da mochila. As mãos traziam pequenos cortes do dia anterior. A água corria clara entre as pedras e, por um instante, ele se ajoelhou apenas para observá-la.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Tentou pegar um peixe — Falhou. Tentou de novo — A água escapou entre seus dedos.`,
+                
+                `Na terceira tentativa escorregou numa pedra coberta de musgo e caiu de lado dentro do rio raso. Ficou alguns segundos ali, molhado, olhando para o céu através das folhas, enquanto gotas escorriam do cabelo até o rosto.`,
+                `Soltou um pequeno riso. Não porque fosse engraçado. Mas porque estava cansado demais para sentir outra coisa.`,
+                
+                `Levantou devagar e voltou à margem. Recolheu galhos secos. Testou cortes com a espada. Tentou fazer uma lança improvisada. A madeira partiu. Refez. Tornou a quebrar. As mãos começaram a endurecer. Pequenas bolhas surgiram. A pele perdeu a delicadeza que a cidade lhe deixara.`,
+                
+                `E, pela primeira vez em muito tempo, ninguém apareceu para ajudá-lo.`,
+                `Não havia Kazuki perguntando alguma coisa só para quebrar o silêncio.`,
+                `Não havia Wynna aproximando-se devagar, percebendo quando ele estava mal antes mesmo que dissesse.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Não havia ninguém. Só ele. E o mundo.`,
+                
+                `Os dias começaram a perder nome. O amanhecer vinha. O sol subia. A noite retornava.`,
+                
+                `E a floresta seguia existindo como se o sofrimento humano fosse apenas mais um ruído passageiro.`,
+                
+                `Yugi aprendeu observando. Aprendeu que folhas agitadas nem sempre significavam vento. Aprendeu que pássaros silenciosos eram aviso. Aprendeu que a correnteza possuía ritmos diferentes dependendo da profundidade. Aprendeu onde os peixes descansavam. Aprendeu quais árvores escondiam frutos. Aprendeu onde a pedra cedia. Onde o solo afundava. Onde a vida passava.`,
+                
+                `A espada também mudou. Antes era símbolo. Agora era ferramenta. Cortava madeira, Escavava raízes, Apoiava escaladas, Limpava peixes, Defendia, Sobrevivia junto dele.`,
+                
+                `À noite retornava sempre para a mesma pedra próxima à cachoeira.`,
+                
+                ``
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `O lugar havia se tornado estranho e familiar ao mesmo tempo. O rugido constante das águas já não assustava. O vento frio que atravessava a névoa parecia conhecido. Sentava-se, fechava os olhos e repetia o ritual: Respirar. Ouvir. Sentir.`,
+                
+                `Primeiro a água. Depois o vento. Os insetos. As folhas. O coração. Os músculos. Os pensamentos.`,
+                
+                `E então procurava outra vez aquela névoa. Ela continuava lá — Imensa. Escura. Como um céu sem estrelas. Às vezes pensava enxergar algo — Uma forma. Um brilho. Dois pontos distantes. Mas desapareciam antes que pudesse entender.`,
+                
+                `O tempo passou. Seu corpo mudou antes que percebesse — Os movimentos ficaram leves. Os passos silenciosos. As reações rápidas. Subia pedras altas usando apoios que antes nem enxergava. Corria entre raízes sem tropeçar. Saltava distâncias que meses atrás julgaria impossíveis.`,
+                
+                `Mas ainda existia algo nele que permanecia pesado.`, `O coração.`,
+                `Foi numa tarde silenciosa que isso começou a mudar.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `O céu já tomava tons dourados e azulados. O rio carregava reflexos do entardecer. Yugidame estava ajoelhado junto da margem, os braços apoiados sobre os joelhos enquanto bebia água com as mãos.`,
+                
+                `Tudo parecia calmo. Até que a floresta respirou diferente. Os pássaros sumiram. O vento morreu. O corpo dele endureceu antes que a mente entendesse. Galhos partiram.`,
+                
+                `Um vulto atravessou os arbustos. O impacto veio como uma explosão. O tigre surgiu diante dele. Era enorme. Muito maior do que imaginava ver na natureza.`,
+                
+                `O pelo laranja escuro carregava cicatrizes antigas. Um dos ombros parecia marcado por algo profundo. Os músculos se moviam sob a pele como cordas vivas. Aquele animal não era majestoso. Era real. Pesado. Faminto. Perigoso.`,
+                
+                `Yugi puxou a espada. O tigre avançou. As garras rasgaram o tecido do braço. A dor queimou. Ele rolou entre pedras molhadas. Levantou. Respirou.`,
+                
+                `O animal circulava lentamente. Não havia ódio. Nem crueldade. Só necessidade.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `E aquilo o atingiu. Porque, pela primeira vez, não enxergava um inimigo — Enxergava alguém igual. Uma criatura tentando continuar viva.`,
+                
+                `O ataque seguinte veio mais rápido — Yugi desviou. A espada moveu. Parou. Não atacou. Mudou o curso. O tigre passou. Girou. Rugiu. O som atravessou o vale inteiro.`,
+                
+                `Naquele instante alguma coisa respondeu. Não na floresta. Dentro dele. Muito fundo. Muito distante. Como um eco atravessando névoa. O mundo pareceu desacelerar. A respiração estabilizou. Os olhos dele ficaram imóveis. Não havia medo. Só atenção.`,
+                
+                `O tigre atacou novamente. Yugi moveu - se. Um passo. Outro. A espada desviou o peso do corpo do animal. O golpe passou. Nenhum ferimento. Nenhuma morte. Somente movimento.`,
+                
+                `O tigre caiu alguns metros adiante. Virou - se. Os dois ficaram parados. Água correndo. Folhas balançando. Respirações pesadas. Por longos segundos apenas se olharam.`,
+                
+                `Então o animal abaixou a cabeça. Não como derrota. Como reconhecimento. Depois desapareceu entre as árvores.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Yugidame permaneceu imóvel. O braço sangrava. O peito subia devagar. Olhou para a espada. Depois para a direção em que o tigre havia partido. Alguma coisa havia mudado.`,
+                
+                `Naquela noite voltou à cachoeira. O céu estava coberto. A névoa parecia mais espessa que o normal — Sentou - se. Fechou os olhos. Respirou. Procurou novamente. E desta vez…`,
+                
+                `A escuridão não permaneceu vazia. A névoa começou a recuar lentamente. Não muito. Não o suficiente. Mas o bastante. Primeiro vieram os olhos. Dois pontos laranja. Imóveis. Antigos. Depois o contorno. Enorme. Muito maior do que a mente dele conseguia aceitar.`,
+                
+                `O rosto surgia aos poucos, oculto por sombras e chamas azuladas que pareciam existir e desaparecer ao mesmo tempo. Yugidame não se moveu. Nem a criatura. Os dois apenas observavam. Estudavam. Mediam. Como dois estranhos presos à mesma existência.`,
+                
+                `O silêncio ali já não era vazio. Era presença. Era peso. Era verdade. E, pela primeira vez desde a tempestade…`,
+                
+                `Yugidame soube. Não estava sozinho. Nunca estivera.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `À frente dele, escondido além da névoa que por tanto tempo parecera infinita, existia algo vivo. Algo consciente. Algo que também o observava. Os olhos laranja permaneceram fixos nele. E Yugi, ainda ajoelhado diante da escuridão, sustentou o olhar.`,
+                
+                `Sem fugir.`, `Sem baixar a cabeça.`, `Pela primeira vez.`, `Como igual.`
             ]
         }
 

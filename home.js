@@ -1,4 +1,14 @@
+const ultimoCapituloLido = parseInt(localStorage.getItem("capitulo_atual"));
+
 let atual = 0;
+
+if(ultimoCapituloLido){
+  const indexSalvo = capitulos.findIndex(cap => cap.id === ultimoCapituloLido);
+
+  if(indexSalvo !== -1){
+    atual = indexSalvo;
+  }
+}
 
 
 const capImg = document.getElementById("cap_img");

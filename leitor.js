@@ -7,7 +7,7 @@ parseInt(params.get("id"));
 const capitulo =
 capitulos.find(c => c.id === id);
 
-let atual = 0;
+let atual = parseInt(localStorage.getItem(`pagina_capitulo_${id}`)) || 0;
 
 const page =
 document.getElementById("page");
@@ -16,6 +16,9 @@ function renderizarPagina(){
 
     const pagina =
     capitulo.paginas[atual];
+    
+    localStorage.setItem("capitulo_atual", capitulo.id);
+localStorage.setItem(`pagina_capitulo_${capitulo.id}`, atual);
     
     document.body.classList.remove(
     "modo-texto",
