@@ -1127,7 +1127,101 @@ const capitulos = [
                 
                 `Sem fugir.`, `Sem baixar a cabeça.`, `Pela primeira vez.`, `Como igual.`
             ]
-        }
+        },
+        
+        {
+            tipo: "imagem",
+            imagem: "assets/ilustracoes/cen3-cap2.webp"
+        },
+        {
+            tipo: "imagem",
+            imagem: "assets/ilustracoes/cen4-cap2.webp"
+        },
+        {
+            tipo: "imagem",
+            imagem: "assets/ilustracoes/cen5-cap2.webp"
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `A névoa ainda existia.`,
+
+                `Mas já não era um muro.`,
+
+                `Antes ela parecia engolir tudo; agora apenas escondia partes. Pequenos espaços vazios surgiam entre suas camadas, como rasgos em um tecido antigo. O chão escuro daquele lugar começava a aparecer melhor. Rochas úmidas. Filetes rasos de água atravessando as pedras. Vegetação baixa espalhada em manchas irregulares. Nada ali parecia pertencer ao mundo da cachoeira, e ainda assim Yugi sentia que aquele lugar sempre estivera dentro dele.`,
+                
+                `Ele permanecia parado.`,`Muito pequeno.`,`Ridiculamente pequeno.`,
+                
+                `À sua frente, a cabeça de Nikidame ocupava o horizonte como uma montanha viva. Parte da crina desaparecia acima da névoa. As laterais já não podiam ser vistas. O corpo simplesmente continuava para além do que os olhos alcançavam. As chamas azuis moviam-se lentamente sobre a pelagem comum do tigre, não como fogo real, mas como algo que existisse entre matéria e lembrança. Sob aquela luz fraca, os olhos laranja pareciam estrelas enterradas em uma noite profunda.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Yugi sustentou o olhar. Não havia medo agora. Apenas existia tensão. Respeito.`,
+                
+                `O desconforto de estar diante de algo que ultrapassava qualquer medida humana.`,
+                
+                `Mas o medo já não comandava seus pés.`,
+
+                `— Então era você...todo esse tempo.`,
+                
+                `A voz saiu baixa.Não porque ele quisesse.O lugar parecia exigir isso.`,
+
+                `Nikidame não respondeu imediatamente.O silêncio cresceu entre eles.O som distante da água correndo pelos pequenos canais atravessou o vazio.`,
+
+                `Então veio a voz. Profunda. Grave. Não monstruosa. Não agressiva.`,
+                
+                `Parecia o som que uma montanha faria se pudesse falar.`,
+                `— E você esteve olhando para mim sem perceber.`,
+                `Yugi franziu levemente o rosto.`,
+                `— Eu não vi nada.`,
+                `— Viu.`,
+                `As chamas moveram-se.`,
+                `— Apenas não tinha olhos para entender. Vocês humanos olham pouco.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `— Vocês correm. Constroem. Quebram. Reconstroem. Lutam. Esquecem. — Continuou Nikidame. — `,
+                
+                `Yugi abaixou levemente os olhos. Não respondeu. Porque uma parte dele reconheceu aquilo. A cidade. A escola. As pessoas. Tudo parecia sempre correndo. Sempre empurrando. Sempre querendo chegar. Mesmo sem saber onde. Ele ergueu a cabeça outra vez.`,
+                `— Você não gosta dos humanos?`,
+                
+                `— Eu os observo. — disse Nikidame. — Vi humanos criarem abrigo onde existia vazio. Vi carregarem outros quando mal conseguiam carregar a si mesmos.  Também os vi incendiar aquilo que precisavam. Vi destruir por orgulho. Vi transformar medo em violência.`,
+                
+                `O garoto permaneceu quieto.`,
+                `Parte dele queria perguntar dezenas de coisas. Outra parte não queria quebrar aquele instante. Havia algo estranho naquela conversa. Não parecia conhecer uma criatura. Parecia descobrir uma parte esquecida de si mesmo.`,
+                
+                `Ele ergueu os olhos novamente.`,
+
+                `— O que você é?`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Desta vez não houve pausa.`
+
+                `— Sou um Dame.`,
+                `— Isso eu já entendi — Yugi respirou fundo. — O que significa ser um Dame?`,
+                
+                `Os olhos colossais permaneceram sobre ele.`,
+
+                `— Significa existir diferente. — A resposta veio simples. Seca. Sem mistério desnecessário.`,
+                
+                `— Vocês seguiram o caminho da matéria estável. Cresceram pelo peso, pela carne, pelo limite. Nós seguimos outra direção. Somos menos fixos. Menos presos. Mais próximos do movimento do mundo.`,
+                
+                `A névoa passou entre eles. As chamas azuis ondularam pela crina gigantesca.`,
+
+                `— Ainda somos criaturas. Ainda existimos. Ainda mudamos. Apenas... de outra maneira.`
+            ]
+        },
 
     ]
 }
