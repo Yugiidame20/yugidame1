@@ -1206,24 +1206,252 @@ const capitulos = [
         {
             tipo: "texto",
             conteudo: [
-                `Desta vez não houve pausa.`
-
-                `— Sou um Dame.`,
-                `— Isso eu já entendi — Yugi respirou fundo. — O que significa ser um Dame?`,
+                `Desta vez não houve pausa.`,
                 
+                `— Sou um Dame.`,
+                
+                `— Isso eu já entendi — Yugi respirou fundo. — O que significa ser um Dame?`,
+
                 `Os olhos colossais permaneceram sobre ele.`,
 
                 `— Significa existir diferente. — A resposta veio simples. Seca. Sem mistério desnecessário.`,
-                
+
                 `— Vocês seguiram o caminho da matéria estável. Cresceram pelo peso, pela carne, pelo limite. Nós seguimos outra direção. Somos menos fixos. Menos presos. Mais próximos do movimento do mundo.`,
-                
+
                 `A névoa passou entre eles. As chamas azuis ondularam pela crina gigantesca.`,
 
-                `— Ainda somos criaturas. Ainda existimos. Ainda mudamos. Apenas... de outra maneira.`
+                `— Ainda somos criaturas. Ainda existimos. Ainda mudamos. Apenas... de outra maneira.`,
+                `Yugi abaixou o olhar. Pensou nas palavras. Não entendia completamente. Mas sentia. Como quando alguém não compreende o oceano, embora reconheça sua profundidade.`,
+                
+                `— Existem outros?`
+
             ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `— Sim.`,
+                `— Muitos?`,
+                `— Mais do que você imagina. Menos do que teme.`,
+                
+                `Yugi quase sorriu. Foi a primeira resposta que pareceu estranhamente humana.`,
+                
+                `— Então por que eu?`,
+                
+                `O silêncio voltou. Desta vez longo. Pesado. Não parecia hesitação. Parecia memória.`,
+
+                `— Algo rompeu a distância — As chamas diminuíram. — Você e eu atravessamos uma fronteira.`,
+                
+                `Yugi ergueu lentamente o rosto.`,
+
+                `— Agora nossas existências se tocam.`,
+
+                `O peito dele apertou. — Isso quer dizer que somos a mesma coisa ?`,
+    
+                `Os olhos laranja de Nikidame fixaram - se nele.`,
+
+                `— Não. — A resposta veio firme. Imediata.`,
+                
+                `— Você continua sendo você. Eu continuo sendo eu. Não somos fusão. Não somos posse. Não somos senhor e servo.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `O vento atravessou a névoa. As pequenas águas moveram-se.`,
+                
+                `— Estamos ligados. E isso basta.`,
+                
+                `Yugi permaneceu imóvel. Alguma coisa naquela frase o atingiu. Porque desde que fugira da cidade ele tentava escapar. Escapar do raio. Da força. Do medo. Do que havia feito. Mas agora... não existia fuga. Não havia um “antes”. Nem retorno possível.`,
+                
+                `Ele respirou fundo. Muito fundo. Depois falou quase como alguém confessando algo.`,
+                
+                `— Então não é poder...`,
+
+                `A voz saiu baixa. Mais para si do que para o outro.`,
+
+                `— É controle.`,
+                
+                `— Parcialmente. — Disse Nikidame. — Controle sem clareza gera tirania. Clareza sem força gera impotência.`,
+                
+                `O garoto ficou imóvel. Muito tempo.`,
+                
+                `Os olhos de Yugi voltaram para Nikidame. Depois para as próprias mãos. Lentamente ele entendeu. Quando a mente ficava limpa... o corpo mudava. Os movimentos melhoravam. A força parecia maior. Os sentidos se expandiam.`
+                
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `O mundo desacelerava. Era como se aquela linha invisível entre ambos se aproximasse. Não o transformando em Dame. Mas levando-o... alguns passos além do humano comum.`,
+                
+                `Naquela noite eles não falaram mais. Yugi voltou à cachoeira. Abriu os olhos. A floresta continuava igual. A água. As pedras. O vento. Mas ele não.`,
+                
+                `Nos dias seguintes começou a testar. Corridas. Escaladas. Saltos. Movimentos baixos. Mudanças bruscas. Treinos com a espada.`,
+                
+                `Algumas vezes funcionava. Outras fracassava. Quando a mente se agitava, perdia tudo. Quando o medo entrava... a velocidade desaparecia. Quando a raiva surgia... a força passava da medida. Mas quando conseguia silêncio... mesmo por segundos... algo acontecia.`,
+                
+                `Os sentidos abriam. O corpo ficava leve. O mundo parecia maior. E perigoso. Porque aquela força crescia rápido. Mais rápido do que a experiência. Mais rápido do que o próprio Yugi.`,
+                
+                `E foi exatamente isso... que um dia o levaria alto demais. Longe demais. Até o momento em que pisaria no vazio... e descobriria se realmente dominava aquilo. Ou se apenas aprendera a tocá-lo.`
+            ]
+        },
+        
+        {
+            tipo: "imagem",
+            imagem: "assets/ilustracoes/cen6-cap2.webp"
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Depois daquela noite na cachoeira, Yugidame não voltou imediatamente para a sobrevivência. A fome, o abrigo, a caça e os ferimentos já não eram os mesmos inimigos de antes. A floresta ainda exigia respeito, mas deixara de ser um território desconhecido.`,
+                
+                `O verdadeiro obstáculo agora estava dentro dele. Pela primeira vez desde o raio, Yugi parou de fugir do que havia acontecido. Não porque aceitasse. Não porque entendesse. Mas porque percebeu algo simples e desconfortável: aquilo não desapareceria. Se existia uma ligação entre ele e Nikidame, então continuar fingindo que ela não existia seria apenas trocar o medo pela cegueira.`,
+                
+                `Sentado sobre a pedra da cachoeira, olhando a corrente escorrer entre as rochas, ele passou a repetir o mesmo exercício todas as tardes. Respirava. Silenciava a mente. Limpava lembranças. Afastava vozes.`,
+                
+                `Quando a névoa surgia ao redor — aquela névoa que não existia no mundo físico, mas apenas naquele espaço interno onde ele encontrava Nikidame — ele aprendia a não lutar contra ela. Apenas observava. E pouco a pouco ela começava a abrir espaço.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Os primeiros resultados vieram de forma quase ridícula. Não houve explosões nem descargas atravessando o céu. Vieram como pequenos estalos correndo pela pele, vibrações nas mãos, uma leve sensação elétrica deslizando pelos músculos.`,
+                
+                `No início ele errava tudo. Tentava concentrar força e acabava exausto. Tentava acelerar e tropeçava. Tentava conduzir a energia até a espada e o metal apenas estremecia por um instante antes de apagar. Houve dias inteiros desperdiçados tentando fazer uma única faísca permanecer mais do que alguns segundos.`,
+                
+                `Outras vezes a descarga escapava cedo demais e atingia árvores, pedras ou o próprio chão. O braço doía. Os músculos queimavam. As mãos ficavam dormentes. Ainda assim ele continuava. Porque começava a entender que aquilo não era “soltar poder”.`,
+                
+                `Era alinhar corpo, pensamento e intenção. Quando a mente ficava turva, tudo quebrava. Quando ela se organizava, o mundo parecia responder.`,
+                
+                `Vieram então os movimentos. Primeiro saltos curtos entre pedras do rio. Depois distâncias maiores. Depois encostas. Depois penhascos pequenos.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Yugidame passava horas observando trajetórias antes de se mover. Calculava peso, inclinação, impulso, apoio, vento. Errava. Caía. Se machucava. Subia de novo. Os saltos deixaram de parecer humanos. O corpo começou a encontrar pontos impossíveis.`,
+                
+                `As pernas absorviam impactos que antes o destruiriam. A velocidade aumentava. Ele atravessava clareiras como um vulto escuro entre as árvores. Aprendeu a usar a espada não apenas como arma, mas como extensão do equilíbrio. A lâmina servia para ancorar, girar, mudar direção, absorver impacto.`,
+                
+                `Quando conduzia a energia corretamente, pequenos traços azul percorriam o metal e desapareciam quase no mesmo instante. Não eram relâmpagos grandiosos. Eram sinais. Respostas. Fragmentos.`,
+                
+                `As semanas passaram e a floresta começou a se transformar em campo de prova. Yugidame criava obstáculos para si mesmo. Escalava paredões apenas para saltar deles. Corria contra rios velozes. Subia árvores altas e descia antes que os galhos terminassem de oscilar. Escolhia caminhos impossíveis. Buscava as pedras mais perigosas. Forçava o corpo até a exaustão.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `A diferença era que agora havia método. Não treinava força. Treinava domínio. O objetivo deixou de ser ficar mais poderoso. Queria permanecer lúcido enquanto tudo ao redor desmoronava. Queria manter clareza quando o corpo gritasse. Queria continuar vendo quando o medo chegasse.`,
+                
+                `E aos poucos conseguiu. Os movimentos ficaram econômicos. Menores. Mais precisos. O pensamento encurtou. Muitas ações aconteciam antes das palavras nascerem. Ele não precisava ordenar o salto. Apenas saltava. Não precisava decidir o apoio. O corpo já o encontrava.`,
+                
+                `Foi então que aconteceu.`,
+                
+                `O treino daquele dia levou Yugidame até a parte mais alta das colinas próximas da floresta. Rochas enormes avançavam sobre o vazio formando um caminho irregular acima de paredões profundos.`,
+                
+                `O vento era forte. O chão instável. Ele atravessava tudo usando velocidade, impulsos curtos e a espada como apoio. Estava indo bem demais. Rápido demais. Um salto. Outro. Mais um. Então a pedra cedeu...`
+            ]
+        },
+        
+        {
+            tipo: "imagem",
+            imagem: "assets/ilustracoes/cen7-cap2.webp"
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `O salto havia sido perfeito. Por uma fração de segundo, Yugidame acreditou que finalmente dominara aquela distância impossível.`,
+
+                `Seu corpo cortou o ar acima das copas da floresta, veloz como uma flecha. O vento rugia em seus ouvidos. As montanhas pareciam menores. O vale inteiro se abria abaixo dele como um mapa vivo. Durante aquele instante, tudo parecia estar exatamente onde deveria estar.`,
+                
+                `Então uma pedra cedeu.`,
+
+                `O apoio que deveria impulsioná-lo para o outro lado simplesmente se partiu sob seus pés. O mundo desapareceu. Não houve tempo para pensar.`,
+
+                `O céu girou. A montanha girou. O horizonte desapareceu. Yugi sentiu o estômago afundar enquanto seu corpo era lançado para o vazio. A queda começou.  Primeiro vieram os metros. Depois dezenas deles. Depois centenas. O penhasco parecia não ter fim`,
+                
+                `As paredes de pedra desciam como muralhas infinitas enquanto fragmentos de rocha o acompanhavam na queda. O vento batia contra seu rosto com violência suficiente para arrancar lágrimas dos olhos. Sua capa chicoteava atrás de si. A espada ameaçava escapar de sua mão.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Por um instante, apenas um instante, o medo voltou. Não o medo da morte. Mas o mesmo medo que o havia perseguido desde o início. O medo de perder o controle. O medo de falhar. O medo de voltar a ser o garoto que corria sem saber para onde.`,
+                
+                `Seu coração disparou. Sua respiração travou. Seu corpo enrijeceu. E justamente naquele momento, enquanto despencava rumo ao abismo, alguma coisa dentro dele se recusou a aceitar aquilo. Meses de quedas. Meses de erros. Meses de ferimentos. Meses aprendendo a sobreviver. Tudo aquilo surgiu de uma vez só em sua mente.`,
+                
+                `As noites ao lado da cachoeira. Os dias em que não conseguia produzir sequer uma centelha. Os cortes. As queimaduras. A fome. O frio. As escaladas. Os saltos fracassados. A eletricidade queimando seus músculos. Nada daquilo havia sido suportado para terminar daquela forma.`,
+                
+                `O pânico desapareceu. Não porque ele o expulsou. Mas porque simplesmente não havia mais espaço para ele. Seu corpo relaxou. Sua mente ficou silenciosa. Pela primeira vez desde que despertara aquele poder, não existia hesitação.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Tudo se tornou claro. Yugidame girou o corpo abruptamente no ar. A queda continuava brutal. Mas agora havia direção. Havia intenção. Seus olhos laranja brilharam como brasas acesas. A mão direita encontrou a empunhadura da espada. A esquerda procurou equilíbrio. O mundo parecia desacelerar. Não porque estivesse realmente mais lento. Mas porque ele finalmente conseguia enxergá-lo por inteiro. Cada rocha. Cada saliência. Cada corrente de vento. Cada possível rota.`,
+                
+                `Então ele atacou. A lâmina encontrou a parede do penhasco. O impacto explodiu em faíscas. Um rugido metálico atravessou o vale. A espada abriu um sulco profundo na rocha enquanto toneladas de pedra eram arrancadas da montanha. A velocidade diminuiu. Não o suficiente. Yugi cerrou os dentes. Os músculos dos braços incharam. As veias saltaram.
+                Então a eletricidade respondeu.`,
+                
+                `Não como antes. Não descontrolada. Não explosiva. Não caótica. Ela fluiu. Percorreu seus braços. Entrou na espada. Espalhou-se pela lâmina como rios de luz azul correndo por metal líquido. A resistência aumentou. A espada afundou ainda mais na parede rochosa. A queda perdeu velocidade.`
+                
+                
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Até que finalmente seu corpo deixou de despencar. Agora ele deslizava. Controlado. Consciente. Vivo. Yugidame sorriu. Pela primeira vez não havia desespero naquele sorriso. Havia certeza.`,
+                
+                `No instante seguinte retirou a espada da rocha e saltou. O que aconteceu depois não parecia mais um treinamento. Parecia uma demonstração. Seu corpo disparava entre as paredes do penhasco como um raio vivo. Corria sobre superfícies impossíveis. Saltava de uma formação rochosa para outra. Usava a eletricidade para impulsionar músculos e articulações exatamente no momento necessário. Nenhum movimento era desperdiçado. Nenhum pensamento atrasava a ação.`,
+                
+                `Pedras enormes bloqueavam seu caminho. Ele as atravessava. Escorregamentos desabavam sobre ele. Ele passava antes que o impacto acontecesse. Abismos surgiam. Ele os cruzava. Quanto mais subia, mais compreendia o que Nikidame tentara mostrar. O poder nunca estivera nos raios. Nem na espada. Nem em sua força física. Tudo aquilo era apenas consequência.`,
+                
+                `O verdadeiro poder surgia quando mente, corpo e intenção deixavam de lutar entre si. Quando tudo apontava para a mesma direção. Quando não existia dúvida. Quando não existia ruído. Quando não existia medo.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Então o impossível simplesmente deixava de existir. A escalada tornou-se uma corrida. A corrida tornou-se um voo. E finalmente seus pés encontraram o topo. Yugidame parou sobre a última formação rochosa. Seu peito subia e descia lentamente. O vento atravessava seus cabelos.`,
+                
+                `A luz do fim da tarde tingia a floresta de dourado. Lá de cima era possível enxergar quase tudo. Montanhas. Vales. Rios. As copas intermináveis das árvores. O lugar que havia sido sua prisão agora parecia pequeno.`,
+                
+                `Ele permaneceu imóvel observando o horizonte. Em silêncio. Apenas respirando. Então sentiu um tremor. Leve. Distante. Quase imperceptível. Seus olhos se estreitaram. Algo estava errado. Muito errado. Yugi virou lentamente a cabeça. Foi então que viu. Muito além da floresta, muito além dos vales. Na direção da cidade.`,
+                
+                `Uma coluna de fumaça escura subia para o céu. Grossa. Densa. Artificial. Não era névoa. Não era tempestade. Não era fogo comum. Era o tipo de fumaça que existia quando alguma coisa havia dado terrivelmente errado.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `O vento trouxe um cheiro distante. Queimado. Metálico. Estranho. Yugidame permaneceu imóvel. Sem palavras. Sem perguntas. Sem explicações. Apenas observando. Porque, de alguma forma, já sabia.`,
+                
+                `A paz daqueles meses havia acabado. E aquilo que o aguardava além da floresta mudaria tudo. O vento voltou a soprar. A fumaça continuou subindo. E, sozinho sobre o topo da montanha, Yugidame encarou o horizonte enquanto a última luz do dia desaparecia.`
+            ]
+        },
+        
+        {
+            tipo: "imagem",
+            imagem: "assets/ilustracoes/cen8-cap2.webp"
         },
 
     ]
+    
 }
 
 ];
