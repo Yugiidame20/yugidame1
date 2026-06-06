@@ -1452,6 +1452,155 @@ const capitulos = [
 
     ]
     
+},
+
+{
+    id:3,
+
+    numero:"CAPÍTULO 3",
+
+    titulo:"O RETORNO",
+
+    descricao:
+    "Enquanto a cidade tenta seguir em frente, uma nova ameaça emerge das sombras. E quando tudo parece perdido, Yugidame finalmente retorna.",
+    
+        imagem:"Home_Imgs/cap3.webp",
+
+    paginas: [
+
+    {
+        tipo: "imagem",
+        imagem: "Home_Imgs/cap3.webp"
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `O movimento da cidade havia voltado ao normal. Pelo menos era o que parecia.`,
+            
+            `O mercado central estava cheio. Crianças atravessavam as ruas estreitas carregando sacolas maiores do que deveriam. Comerciantes anunciavam promoções com vozes cada vez mais altas para vencer o barulho dos concorrentes. O aroma de pão recém-assado escapava das padarias e se misturava ao cheiro de café que saía dos pequenos estabelecimentos espalhados pelas avenidas principais.`,
+            
+            `Para qualquer visitante, aquele seria apenas mais um dia comum. Mas para quem conhecia a cidade de verdade, havia algo diferente. Uma ausência. Algo que não podia ser apontado diretamente, mas ainda ocupava espaço.`,
+            
+            `Como uma cadeira vazia em uma mesa familiar. Como um silêncio no meio de uma música conhecida. Como um nome que ninguém dizia em voz alta.`,
+            
+            `Kazuki e Wynna estavam sentados próximos à janela de uma pequena cafeteria que costumavam frequentar desde a infância. O estabelecimento era simples, construído em madeira escura e pedra clara, com vasos de flores espalhados próximos às janelas. O local oferecia uma vista privilegiada da avenida principal, permitindo observar quase toda a movimentação do centro.`
+        ]
+        
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `Kazuki girava distraidamente a colher dentro da xícara. Wynna observava as pessoas passando. Os dois pareciam tranquilos. Mas ambos sabiam exatamente o que estavam evitando mencionar.`,
+            
+            `— Você continua exagerando nas histórias. — disse Wynna.`,
+            `Kazuki ergueu uma sobrancelha.`,
+            `— Eu conto exatamente como aconteceu.`,
+            `— Você transforma qualquer coisa numa aventura.`, `— Porque qualquer coisa pode virar uma aventura.`,
+            
+            `— Até alguém tropeçando numa caixa?`, `— Principalmente alguém tropeçando numa caixa.`, `Wynna riu.`, `Kazuki também.`, `Por alguns segundos o peso dos últimos meses desapareceu.`,
+            
+            `Mas então seus olhos encontraram uma cadeira vazia na outra ponta da mesa.`
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `O sorriso diminuiu.`,
+
+            `Ele permaneceu olhando por alguns instantes. Depois apoiou o queixo na mão.`, `— Ele reclamaria do preço desse café.`, `Wynna acompanhou seu olhar.`, `— E diria que você foi enganado.`,
+            
+            `— E provavelmente pediria metade da minha comida.`, `— Sem pedir!`, `— Sem pedir.`,
+            
+            `Os dois sorriram novamente. Mas dessa vez a sensação foi diferente. Mais melancólica. Mais distante. Wynna voltou os olhos para a rua. As pessoas continuavam andando. A vida continuava acontecendo. E ainda assim...`,
+            
+            `— Você acha que ele está bem? — Indagou Wynna`,
+            
+            `A pergunta saiu quase como um pensamento. Kazuki demorou para responder. Observou o movimento da avenida. As nuvens. Os telhados. Os pássaros. Depois respirou fundo.`,
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `— Sim. — Respondeu Kazuki`, 
+            `— Como pode ter tanta certeza?`, 
+            `— Porque ele é teimoso demais para morrer.`,
+            
+            `Wynna tentou não rir. Mas acabou sorrindo.`,`Então tudo tremeu.`
+        ]
+    },
+    
+    {
+        tipo: "imagem",
+        imagem: [
+            "assets/ilustracoes/cen1-cap3.webp"
+        ]
+    },
+    
+    {
+    tipo: "imagem",
+    imagem: [
+        "assets/ilustracoes/cen2-cap3.webp"
+    ]
+},
+
+    {
+        tipo: "texto",
+        conteudo: [
+            `A colher vibrou contra a porcelana. As flores próximas da janela balançaram. Os copos sobre o balcão produziram um som agudo. Kazuki ficou sério imediatamente. Outro tremor. Mais forte.`,
+            
+            `Dessa vez todos perceberam. Algumas pessoas olharam para os lados. Outras pararam de andar. Uma criança apontou para o horizonte. E então surgiu a fumaça. Uma coluna escura. Densa. Subindo lentamente além dos prédios mais distantes. O sorriso desapareceu completamente do rosto de Kazuki.`,
+            
+            `— Não...`, `Wynna já estava de pé. — Você também viu?`, `— Vi.`,
+
+`O terceiro tremor foi tão forte que alguns quadros da cafeteria caíram das paredes.`,
+
+            `E nesse instante ambos começaram a correr. Sem dizer mais nada. Porque já sabiam: Alguma coisa havia chegado. Novamente...`
+        ]
+    },
+    
+    {
+        tipo:"imagem",
+        imagem: [
+            "assets/ilustracoes/cen3-cap3.webp"
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `As ruas se transformaram em caos em questão de minutos. Sirene após sirene começou a ecoar pela cidade. Guardas corriam em todas as direções. Pessoas abandonavam lojas. Comerciantes fechavam portas. Pais carregavam filhos nos braços. Ninguém sabia exatamente o que estava acontecendo. Mas todos sabiam que era perigoso.`,
+            
+            `Kazuki avançava pela multidão com rapidez impressionante. Wynna vinha logo atrás. Quando finalmente alcançaram uma avenida elevada, puderam ver a origem do problema. E ambos pararam. Lá ao longe. Entre a fumaça. Uma figura gigantesca caminhava entre os prédios.`,
+            
+            `Não parecia viva. Mas também não parecia uma máquina. Sua forma lembrava vagamente um ser humano. Braços grossos, Tronco massivo, Cabeça pequena demais para o restante do corpo. A pele parecia composta de pedra escura, concreto rachado e alguma substância desconhecida que pulsava através das fissuras.`,
+            
+            `Cada passo produzia tremores. Cada movimento parecia pesado o suficiente para derrubar construções inteiras. Então outro surgiu. Depois outro. E mais outro. Como sombras emergindo da fumaça.`
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `— São Gigantes... murmurou Kazuki.`,
+            `Wynna observou em silêncio. A quantidade era muito maior do que qualquer registro anterior.`,
+            
+            `— Isso não é normal.`, `— Não. Nem de longe.`,
+            
+            `O primeiro deles atravessou um prédio de quatro andares. A construção desabou imediatamente. Gritos ecoaram pela avenida. Kazuki fechou os punhos. O momento de observação havia acabado.`,
+            
+            `— Precisamos tirar todos daqui. — Disse Kazuki.`,
+            `Wynna assentiu. Sem hesitar. Sem medo. Apenas determinação. Porque era isso que faziam.`,
+            
+            `Enquanto os soldados avançavam para conter os monstros, eles correram na direção oposta. Na direção das pessoas. Porque era ali que eram necessários.`
+        ]
+    }
+    
+    ]
 }
 
 ];
+
