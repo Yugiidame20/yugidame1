@@ -1693,7 +1693,7 @@ const capitulos = [
             
             `E então uma sombra caiu sobre todos. O Gigante havia chegado. Seu corpo colossal ergueu - se acima dos prédios quebrados. A luz desapareceu. Poeira desceu do céu. O monstro observava. Não com inteligência. Não com maldade. Mas com algo talvez ainda pior: Indiferença absoluta.`
         ]
-    }
+    },
     
     ]
 }
