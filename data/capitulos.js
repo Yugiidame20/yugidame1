@@ -1700,7 +1700,25 @@ const capitulos = [
         conteudo: [
             `Seu braço começou a se erguer. Lentamente. Pesadamente. Como uma montanha despertando. Algumas pessoas começaram a chorar. Outras abraçaram os filhos. Outras simplesmente congelaram. Até Kazuki sentiu o coração apertar. Porque desta vez... Não havia saída.`,
             
-            `O braço colossal continuou subindo. Pedras caíam dele. Rachaduras percorriam sua superfície. Tudo ao redor parecia pequeno. Frágil. Condenado.`, `Então aconteceu.`
+            `O braço colossal continuou subindo. Pedras caíam dele. Rachaduras percorriam sua superfície. Tudo ao redor parecia pequeno. Frágil. Condenado.`, `Então aconteceu...`
+        ]
+    },
+    
+    {
+        tipo: "imagem",
+        imagem: "assets/ilustracoes/cen7-cap3.webp"
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `Um clarão azul. Tão rápido que ninguém conseguiu compreender. Por um único instante, uma linha elétrica cruzou o ar. Silenciosa. Precisa. Perfeita. Ela atravessou o corpo inteiro do Gigante. Dos pés à cabeça. Como um relâmpago desenhado por uma lâmina invisível.`,
+            
+            `O gigante congelou. O braço permaneceu suspenso. O mundo inteiro pareceu parar. Um segundo. Dois. Três. Então seu corpo se partiu. Não explodiu. Não foi lançado para trás. Simplesmente se despedaçou.`,
+            
+            `Centenas de fragmentos começaram a deslizar. Separando-se. Desmoronando. Como uma estátua antiga que finalmente aceitara sua derrota. O gigante inteiro colapsou diante deles. O impacto ergueu uma nova nuvem de poeira.`,
+            `Silêncio.`,
+            `Ninguém entendeu o que havia acontecido. Por alguns segundos, ninguém sequer respirou. Então Wynna ergueu os olhos. E viu. Lá em cima...`
         ]
     }
     
