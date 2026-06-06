@@ -1597,6 +1597,102 @@ const capitulos = [
             
             `Enquanto os soldados avançavam para conter os monstros, eles correram na direção oposta. Na direção das pessoas. Porque era ali que eram necessários.`
         ]
+    },
+    
+    {
+        tipo: "imagem",
+        imagem: [
+            "assets/ilustracoes/cen4-cap3.webp"
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `A fumaça continuava crescendo no horizonte. Não era apenas uma coluna escura agora. Era uma cicatriz aberta no céu da cidade.`,
+            
+            `Kazuki corria na frente, desviando das pessoas que surgiam de todas as direções. Seus olhos verdes analisavam ruas, esquinas e rotas possíveis com a rapidez de alguém acostumado a tomar decisões sob pressão. Atrás dele, Wynna acompanhava o ritmo sem dificuldade. O vento empurrava seus cabelos castanhos para trás enquanto ela observava cada rosto, cada expressão, cada pessoa perdida no meio da confusão crescente.`,
+            
+            `À medida que avançavam, mais tremores sacudiam o chão. Vidraças estalavam. Postes balançavam. Pedaços de concreto se desprendiam das fachadas.`,
+            
+            `E então eles o viram. Ao longe. Entre dois conjuntos de prédios. Uma silhueta colossal. Algo escuro. Pesado. Grotesco.`,
+            
+            `Não possuía a aparência limpa de uma máquina nem a forma reconhecível de um ser vivo. Parecia uma massa de matéria fundida à força. Concreto, pedra, metal oxidado e alguma substância escura e orgânica misturavam-se em um corpo desproporcional, cheio de cavidades, fissuras e protuberâncias deformadas.`
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `O Gigante avançava lentamente. Mas cada passo fazia o chão estremecer. Kazuki cerrou os dentes. Aquilo estava vindo exatamente na direção da área residencial.`,
+            
+            `— Precisamos tirar todos daqui... – Disse Kazuki.`,
+
+            `Não precisou dizer mais nada. Os dois já sabiam o que fazer.`,
+
+            `A cidade possuía estruturas de evacuação espalhadas pelos bairros. Faziam parte do cotidiano desde muito antes deles nascerem. Tempestades violentas, terremotos, conflitos entre outros desastres já haviam ensinado aquela sociedade a se preparar.`,
+            
+            `A poucos quarteirões dali existia um dos maiores abrigos subterrâneos do distrito. Um complexo reforçado abaixo de uma estação de transporte. Capaz de proteger milhares de pessoas. Era para lá que precisavam levar todos.`,
+            
+            `Quando chegaram à avenida principal, encontraram dezenas de moradores completamente paralisados.  Alguns olhavam para a fumaça. Outros filmavam. Outros apenas observavam sem compreender. O comportamento normal de quem ainda não aceitara o perigo.`
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `Kazuki subiu sobre um banco de concreto próximo. Não gritou. Não tentou parecer uma autoridade. Apenas apontou para a direção correta. Sua voz saiu firme. Segura. Objetiva. E, por algum motivo, as pessoas ouviram.`,
+            
+            `Talvez porque ele próprio não parecesse assustado. Talvez porque estivesse fazendo exatamente aquilo que deveria fazer. Talvez porque, no fundo, todos procurassem alguém que parecesse saber para onde ir. Logo grupos começaram a segui-lo.`,
+            
+            `Wynna assumiu naturalmente a organização. Ela caminhava entre as pessoas. Abaixava - se para falar com crianças. Ajudava idosos. Acalmava os mais nervosos. Separava quem havia se perdido da família. Sua voz era suave. Mas curiosamente firme. Ninguém sentia que estava recebendo ordens. Sentiam apenas que estavam sendo ajudados. E isso fazia toda diferença.`,
+            
+            `Pouco a pouco, uma multidão começou a se mover pelas ruas. Não era uma fuga desesperada. Era um fluxo organizado. Como um rio procurando seu caminho.`,
+
+            `Então veio o impacto.`
+        ]
+    },
+    
+    {
+        tipo: "imagem",
+        imagem: [
+            "assets/ilustracoes/cen5-cap3.webp"
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `Um estrondo colossal explodiu alguns quarteirões à frente. O chão saltou sob seus pés. Pessoas caíram. Vidros se despedaçaram. Uma nuvem de poeira ergueu - se acima dos prédios. E quando ela começou a baixar... O Gigante estava ali.  Muito mais perto. Muito maior. Muito pior.`,
+            
+            `Seu corpo gigantesco havia atravessado um conjunto inteiro de edifícios. Paredes pendiam destruídas. Concreto escorria de seus braços. Cabos elétricos arrastavam-se pelo chão como raízes arrancadas. Seu rosto deformado parecia uma máscara incompleta moldada por alguém que nunca havia visto um ser humano.`,
+            
+            `Lento, silencioso, implacável. Ele avançou mais uma vez. E então destruiu o próprio caminho.`,
+            
+            `Um prédio inteiro tombou. A estrutura despencou sobre a avenida. Concreto. Aço. Vidro. Tudo caiu junto. Quando a poeira baixou novamente, a multidão estava encurralada.`
+        ]
+    },
+    
+    {
+        tipo: "imagem",
+        imagem: [
+            "assets/ilustracoes/cen6-cap3.webp"
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `O abrigo estava logo adiante. Mas uma muralha de destroços bloqueava completamente a passagem. Ou quase. Porque entre os escombros existia uma abertura estreita. Uma fenda. Pequena demais. Mal permitia a passagem de uma pessoa por vez.`,
+            
+            `Do outro lado, alguns moradores já gritavam. Apontavam. Faziam sinais. Era possível passar. Mas levaria tempo, Tempo demais. Kazuki percebeu imediatamente.`,
+            
+            `— Por ali!`,
+            
+            `As pessoas começaram a avançar. Uma por uma. Lentamente. A tensão aumentava a cada segundo. Wynna ajudava crianças a atravessar primeiro. Depois os idosos. Depois os feridos. A fila avançava. Mas devagar demais, Muito devagar.`,
+            
+            `E então uma sombra caiu sobre todos. O Gigante havia chegado. Seu corpo colossal ergueu - se acima dos prédios quebrados. A luz desapareceu. Poeira desceu do céu. O monstro observava. Não com inteligência. Não com maldade. Mas com algo talvez ainda pior: Indiferença absoluta.`
+        ]
     }
     
     ]
