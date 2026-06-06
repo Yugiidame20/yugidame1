@@ -1693,8 +1693,18 @@ const capitulos = [
             
             `E então uma sombra caiu sobre todos. O Gigante havia chegado. Seu corpo colossal ergueu - se acima dos prédios quebrados. A luz desapareceu. Poeira desceu do céu. O monstro observava. Não com inteligência. Não com maldade. Mas com algo talvez ainda pior: Indiferença absoluta.`
         ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `Seu braço começou a se erguer. Lentamente. Pesadamente. Como uma montanha despertando. Algumas pessoas começaram a chorar. Outras abraçaram os filhos. Outras simplesmente congelaram. Até Kazuki sentiu o coração apertar. Porque desta vez... Não havia saída.`,
+            
+            `O braço colossal continuou subindo. Pedras caíam dele. Rachaduras percorriam sua superfície. Tudo ao redor parecia pequeno. Frágil. Condenado.`, `Então aconteceu.`
+        ]
     }
     
+
     ]
 }
 
