@@ -2012,7 +2012,7 @@ const capitulos = [
     {
         tipo: "texto",
         conteudo: [
-            `Yugi caminhou entre os escombros do último Oco, respirando fundo, a espada abaixada ao lado do corpo. Fragmentos enormes jaziam espalhados pelo chão. Pedra, concreto, matéria escura e fios internos desconhecidos se misturavam em formas sem nome. Foi então que ele viu a marca.`,
+            `Yugi caminhou entre os escombros do último Sintético, respirando fundo, a espada abaixada ao lado do corpo. Fragmentos enormes jaziam espalhados pelo chão. Pedra, concreto, matéria escura e fios internos desconhecidos se misturavam em formas sem nome. Foi então que ele viu a marca.`,
             
             `Estava gravada em uma placa dura no interior do corpo do monstro, como se fizesse parte de sua estrutura desde o início. Não parecia rachadura. Não parecia acidente. Era um símbolo deliberado, angular, quase como um selo.`,
             
@@ -2049,7 +2049,7 @@ const capitulos = [
     
 
     ]
-}
+},
 
 ];
 
