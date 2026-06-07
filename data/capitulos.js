@@ -1720,6 +1720,89 @@ const capitulos = [
             `Silêncio.`,
             `Ninguém entendeu o que havia acontecido. Por alguns segundos, ninguém sequer respirou. Então Wynna ergueu os olhos. E viu. Lá em cima...`
         ]
+    },
+    
+    {
+    tipo: "imagem",
+    imagem: [
+        "assets/ilustracoes/cen8-cap3.webp"
+    ]
+},
+
+    {
+        tipo: "texto",
+        conteudo: [
+            `Sobre um prédio parcialmente destruído. Uma figura parada contra a luz do fim da tarde. O vento agitava os cabelos escuros. A espada repousava ao lado do corpo. A poeira passava lentamente ao seu redor. E por trás dele o céu parecia maior. Mais distante. Mais brilhante.`,
+            
+            `Os olhos rosados de Wynna se arregalaram. Por um instante ela esqueceu completamente o caos. Esqueceu os gigantes. Esqueceu a multidão. Esqueceu o perigo. Tudo desapareceu. Restando apenas aquela figura. Como se estivesse vendo algo impossível. Ou alguém que jamais acreditou que voltaria.`,
+            
+            `Ao seu lado, Kazuki soltou uma curta risada pelo nariz. Aquele sorriso torto. Irritantemente satisfeito. Como alguém que acabara de confirmar uma aposta antiga. Ele cruzou os braços. Observou o topo do prédio. E balançou a cabeça.`,
+            
+            `— Demorou bastante.`,
+
+            `Mas o sorriso permaneceu. Porque ambos sabiam. Yugidame havia voltado.`
+        ]
+    },
+    
+    {
+    tipo: "imagem",
+    imagem: [
+        "assets/ilustracoes/cen9-cap3.webp"
+    ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `O tremor ainda reverberava pelas ruas quando Yugidame desapareceu novamente entre os prédios. Por um instante, ninguém se moveu.`,
+            
+            `A poeira do Sintético destruído ainda descia lentamente pelo ar, iluminada pela luz dourada da tarde. Fragmentos enormes do corpo grotesco continuavam rolando pela avenida enquanto pequenas pedras saltavam pelo asfalto. O silêncio que se seguiu pareceu impossível depois de tantos gritos.`,
+            
+            `Foi Kazuki quem reagiu primeiro.`,
+            
+            `Ele observou a enorme passagem aberta entre os escombros, depois olhou para a entrada subterrânea do abrigo logo adiante.`,
+            
+            `Ainda havia gente demais do lado de fora. Idosos, crianças, funcionários de lojas. Pessoas feridas, assustadas, Paralisadas. O pior ainda não tinha passado.`,
+            
+            `— Continuem andando! – Gritou Kazuki.`,
+            
+            `Sua voz ecoou firme pela rua. Não era um grito de autoridade. Era uma direção. Algo simples. Natural. Confiável.`,
+            
+            `— O abrigo está logo ali. Não parem agora!`
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `As pessoas começaram a se mover novamente. Uma mulher segurando duas crianças puxou os filhos para frente. Um senhor ajudou outro a caminhar. Alguns voluntários passaram a auxiliar os feridos. A multidão voltou a fluir. Como água encontrando novamente seu caminho.`,
+            
+            `O acesso lembrava uma estação de metrô reforçada, construída anos antes justamente para situações extremas. Uma enorme escadaria desaparecia sob o solo da cidade, protegida por portas blindadas e estruturas de concreto projetadas para resistir a terremotos, tempestades e ataques de criaturas muito maiores do que qualquer ser humano.`,
+            
+            `Do outro lado, Wynna ainda observava o topo do prédio. Seu coração batia rápido demais. Os olhos rosa permaneciam fixos na silhueta distante. Mesmo com toda a confusão. Mesmo com toda a destruição. Ela o reconheceria em qualquer lugar.`,
+            
+            `Aquela postura. Aquele cabelo escuro balançando ao vento. A espada abaixada ao lado do corpo. Era realmente ele. Yugidame havia voltado. Kazuki passou correndo ao seu lado.`,
+            
+            `— Pode admirar depois.`
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `Wynna piscou algumas vezes. Como se despertasse de um sonho. Então respirou fundo. E voltou ao trabalho.`,
+            
+            `Enquanto ele conduzia os grupos mais próximos da entrada, Wynna organizava os que vinham atrás. Ela verificava se ninguém havia ficado para trás. Ajudava crianças. Apoiava idosos. Orientava os feridos. Mas, de vez em quando, seus olhos voltavam para os telhados. Como se procurassem uma silhueta específica. Como se ainda não acreditasse completamente no que havia acabado de ver.`,
+            
+            `A multidão continuava avançando para o abrigo subterrâneo, mas agora o movimento tinha mudado. O desespero cego dos primeiros minutos havia dado lugar a algo mais organizado, mais firme. Pessoas ajudavam desconhecidos. Pais carregavam crianças nos braços. Jovens apoiavam idosos pelos ombros. A visão de um dos Ocos desmoronando diante de todos havia espalhado uma coisa rara em meio ao caos: esperança.`
+        ]
+    },
+    
+    {
+        tipo: "imagem",
+        imagem: [
+            "assets)ilustracoes/"
+        ]
     }
     
 
