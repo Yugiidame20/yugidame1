@@ -1936,7 +1936,116 @@ const capitulos = [
             `Seu corpo entendeu antes da mente. Não conseguiria. Não havia velocidade suficiente, distância suficiente, força suficiente. Pela primeira vez naquele dia, a esperança desapareceu de seu rosto, não em forma de desespero, mas de uma aceitação quieta e terrível.`,
             `O impacto não veio.`, `Veio o vento.`, `Um deslocamento de ar tão rápido que levantou poeira, folhas queimadas e fragmentos leves do chão.`
         ]
-    }
+    },
+    
+    {
+        tipo: "imagem",
+        imagem: [
+            "assets/ilustracoes/cen13-cap3.webp"
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `Wynna sentiu primeiro uma mão envolvendo seu braço, depois outra firme atrás de seus joelhos e costas. O mundo saiu do lugar. A rua, o Gigante, o abrigo, a sombra e o céu giraram em uma única mancha de luz e cinza. Quando conseguiu respirar de novo, já não estava sob o golpe. Estava no ar, carregada contra o peito de alguém que se movia rápido demais para que seus olhos acompanhassem.`,
+            
+            `Ela olhou para cima.`,
+            `E viu o perfil de Yugidame.`,
+            
+            `Não a silhueta distante no alto do prédio. Não o vulto azul atravessando a fumaça. Ele estava ali, real, perto o bastante para que ela visse a poeira em seu rosto, os fios escuros do cabelo balançando contra a testa, a firmeza da mandíbula, os olhos laranja voltados para frente com uma calma que não parecia fria, mas resoluta.`,
+            
+            `Wynna sentiu a garganta apertar. Não era apenas gratidão. Era o choque de reconhecer alguém que havia ido embora menino e voltado diferente, ainda jovem, ainda Yugi, mas sustentando no olhar uma certeza que antes não existia. Seus olhos rosa cintilaram, úmidos, iluminados pelo reflexo azul que ainda corria discretamente pelo casaco dele.`
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `Yugi pousou perto da entrada do abrigo com suavidade inesperada. Colocou Wynna de pé com cuidado, como se a pressa da batalha não o impedisse de lembrar que ela era uma pessoa, não um peso salvo por acaso.`,
+            
+            `Por um instante os dois ficaram próximos demais para que ela dissesse qualquer coisa. Wynna abriu a boca, mas nenhuma palavra saiu. Kazuki se aproximou logo depois, sujo de poeira, ofegante, ainda mantendo aquele sorriso de canto que tentava esconder o quanto seus olhos estavam aliviados.`,
+            
+            `Yugi olhou para os dois. Havia muita coisa que poderia ter dito. Poderia ter explicado onde esteve, poderia ter pedido desculpas, poderia ter perguntado se estavam bem. Mas a cidade ainda tremia, e a última fileira de pessoas ainda descia para o abrigo. Então falou apenas o necessário, com uma voz mais baixa e firme do que Kazuki lembrava.`,
+            
+            `— Vocês estão fazendo um bom trabalho. Terminem a evacuação. Eu encontro vocês quando estiver seguro.`
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `Kazuki inclinou a cabeça, como se fosse responder com alguma provocação, mas dessa vez demorou um pouco mais do que o normal. Talvez porque também tivesse percebido a diferença. No fim, apenas sorriu.`,
+            
+            `Yugi retribuiu com um sorriso quase invisível. Wynna ainda não tinha conseguido desviar os olhos dele.`,
+            
+            `Então ele se virou.`,
+            
+            `O Sintético Rastejante avançava novamente, arrastando o corpo monstruoso sobre os destroços. Yugi segurou a katana com uma das mãos, inclinou levemente o corpo e desapareceu em um clarão azul. Não houve grito, nem pose, nem promessa. Apenas movimento.`,
+            
+            `O golpe seguinte cortou a lateral do monstro antes que ele alcançasse a rua principal. O segundo abriu uma fissura no ombro. O terceiro passou tão rápido por entre os braços deformados que só se tornou visível quando partes da criatura começaram a se separar.`,
+            
+            `Yugi usava os escombros como impulso, as paredes quebradas como apoio, os postes caídos como degraus, o próprio caos da cidade como caminho.`
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `Os últimos Gigantes caíram um a um. Não como inimigos vencidos por raiva, mas como obstáculos removidos com precisão. Um deles tentou atingir um grupo de soldados; Yugi desviou o golpe e cortou a articulação do braço antes que tocasse o chão. Outro avançou contra uma rua lateral; ele correu pela fachada de um prédio, saltou sobre a cabeça da criatura e cravou a espada em um ponto que fez o corpo inteiro perder sustentação.`,
+            
+            `O maior deles resistiu mais. Sua massa era larga, pesada, quase absurda, e cada queda parcial parecia apenas reorganizar o corpo para continuar avançando. Mas Yugi não recuou. Leu os movimentos, esperou o peso se comprometer em um passo errado e então atravessou a criatura em um arco limpo, conduzindo um traço azul pela lâmina.`,
+            
+            `O Gigante permaneceu imóvel por alguns segundos, como se ainda não soubesse que havia sido derrotado, e depois desabou sobre si mesmo, levantando uma nuvem de poeira que cobriu a avenida inteira.`,
+            
+            `Quando o último tremor terminou, a cidade ficou estranhamente silenciosa. Não era paz. Era o silêncio depois do impacto, quando tudo ainda está quebrado, mas nada está caindo naquele exato momento.`
+        ]
+    },
+    
+    {
+        tipo: "imagem",
+        imagem: [
+            "assets/ilustracoes/cen14-cap3.webp"
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `Yugi caminhou entre os escombros do último Oco, respirando fundo, a espada abaixada ao lado do corpo. Fragmentos enormes jaziam espalhados pelo chão. Pedra, concreto, matéria escura e fios internos desconhecidos se misturavam em formas sem nome. Foi então que ele viu a marca.`,
+            
+            `Estava gravada em uma placa dura no interior do corpo do monstro, como se fizesse parte de sua estrutura desde o início. Não parecia rachadura. Não parecia acidente. Era um símbolo deliberado, angular, quase como um selo.`,
+            
+            `Simples demais para ser decoração, preciso demais para ser natural. Yugi se abaixou diante dele. A poeira ainda descia ao redor, e ao longe as sirenes continuavam chamando por socorro, mas seus olhos permaneceram fixos naquela marca.`,
+            
+            `O ataque havia acabado. Mas aquilo não havia surgido sozinho.`,
+            
+            `Yugidame tocou de leve o símbolo com a ponta da espada. Nenhuma energia respondeu. Nenhum brilho apareceu. Ainda assim, alguma coisa nele endureceu. `
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `A mesma certeza que o fizera voltar agora apontava para outro lugar, mais escuro, mais distante e muito menos visível do que os gigantes que acabara de derrotar.`,
+            
+            `Ele olhou para a cidade ferida.`, `Depois para o abrigo.`, `Depois novamente para o símbolo.`, `E entendeu, sem precisar dizer em voz alta, que aquele retorno era apenas o começo.`
+        ]
+    },
+    
+    {
+        tipo: "imagem",
+        imagem: [
+            "assets/ilustracoes/cen15-cap3.webp"
+        ]
+    },
+    
+    {
+    tipo: "imagem",
+    imagem: [
+        "assets/ilustracoes/cen16-cap3.webp"
+    ]
+},
     
 
     ]
