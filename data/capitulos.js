@@ -1801,7 +1801,140 @@ const capitulos = [
     {
         tipo: "imagem",
         imagem: [
-            "assets)ilustracoes/"
+            "assets/ilustracoes/cen10-cap3.webp"
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `Enquanto isso, Yugidame já não estava sobre o prédio onde fora visto pela primeira vez.`,
+            
+            `Apenas alguns segundos depois de reaparecer, sua silhueta desaparecera novamente entre os telhados. Para a maioria das pessoas, era impossível acompanhá-lo. O máximo que conseguiam perceber eram pequenos clarões azuis surgindo em diferentes pontos da cidade, como relâmpagos distantes aparecendo e desaparecendo entre a fumaça.`,
+            
+            `Do alto de um edifício comercial parcialmente destruído, Yugi observou a extensão do distrito. A cidade parecia diferente vista dali. Meses antes ele teria enxergado apenas destruição e confusão. Agora enxergava caminhos. Distâncias. Prioridades. O treinamento na floresta não o havia tornado apenas mais forte. Havia mudado sua maneira de perceber o mundo.`,
+            
+            `Ao longe, três Sinteticos avançavam por uma avenida larga cercada por lojas e prédios residenciais. Um deles arrastava o braço contra as fachadas, arrancando sacadas e janelas como se fossem feitas de papel. Outro havia atravessado uma praça inteira, deixando para trás um rastro de concreto quebrado e árvores arrancadas. O terceiro seguia lentamente na direção de um conjunto habitacional que ainda não fora evacuado.`
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `Yugi respirou fundo. O vento passou por seus cabelos. Então saltou.`,
+            
+            `Seu corpo atravessou o espaço entre dois prédios com a naturalidade de alguém atravessando uma rua comum. A sola de suas botas tocou uma parede por uma fração de segundo antes de impulsioná-lo novamente para frente. Telhados, placas, fachadas e marquises passavam sob seus pés numa sequência quase impossível de acompanhar. Ele não lutava contra a cidade. Movia-se junto dela.`,
+            
+            `Quando alcançou a avenida, pousou sobre um ônibus tombado e finalmente diminuiu o ritmo.`,
+            
+            `Foi então que percebeu os fios.`, `Postes haviam sido arrancados durante o ataque.Transformadores destruídos espalhavam faíscas intermitentes pelo asfalto.Cabos grossos de alta tensão cruzavam a rua em várias direções, serpenteando entre destroços, veículos abandonados e fragmentos de concreto.`,
+            
+            `Os olhos alaranjados percorreram rapidamente o cenário. Depois os Gigantes. Depois os fios novamente. E ele entendeu.`
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `Sem perder tempo, correu. Não em direção aos monstros. Mas ao redor deles.`,
+            
+            `A espada descreveu um arco rápido, capturando um dos cabos. Em seguida outro. Depois outro. Os fios começaram a acompanhá-lo enquanto corria, deslizando pelo asfalto e levantando pequenas nuvens de poeira. A velocidade de Yugi transformou aqueles cabos pesados em verdadeiras correntes metálicas.`,
+            
+            `Os Gigantes continuavam avançando. Lentos. Imensos. Completamente inconscientes do que acontecia ao redor. Yugi passou entre eles uma vez. Depois outra. Depois mais uma.`,
+            
+            `Cada passagem deixava uma nova camada de cabos envolvendo pernas, braços e troncos. Os fios se cruzavam, se tensionavam e se prendiam ao redor dos corpos gigantescos como uma teia improvisada construída em movimento.`,
+            
+            `Quando as criaturas finalmente perceberam alguma resistência, já era tarde demais. Um dos Sintéticos tentou avançar: Os cabos apertaram. Outro ergueu o braço: Os fios prenderam a articulação. O terceiro girou o corpo: A própria força do movimento aumentou a prisão.`
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `Yugi então parou no centro da avenida. Ajoelhou-se. Cravou a espada no asfalto. Durante um instante tudo pareceu desacelerar. O vento. A fumaça. Os passos dos gigantes. As faíscas dos transformadores. Então a energia respondeu.`,
+            
+            `Pequenos raios azuis percorreram a lâmina. Desceram pelos cabos. E se espalharam. Primeiro devagar. Depois mais rápido. Depois tão rápido que pareciam rios de luz correndo através da cidade. As correntes metálicas improvisadas transformaram-se em condutores perfeitos.`,
+            
+            `A eletricidade invadiu os corpos dos Sintéticos. Preencheu rachaduras. Atravessou cavidades. Percorreu cada fragmento daquela matéria grotesca. O ar inteiro brilhou em azul. Os gigantes congelaram. Não por medo. Não por dor. Mas porque simplesmente deixaram de responder.`,
+            
+            `Suas estruturas começaram a vibrar. Pequenas fissuras surgiram por toda a superfície. Uma, Duas. Dezenas, Centenas. Então os corpos cederam.`,
+            
+            `Braços desabaram primeiro. Depois os ombros. Depois as pernas. Como edifícios cujas fundações haviam desaparecido de repente.`
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `O chão tremeu quando os três colossos ruíram quase ao mesmo tempo. Uma onda de poeira atravessou a avenida. Vidraças já danificadas estilhaçaram. Carros abandonados balançaram. E então veio o silêncio. Yugi retirou a espada do asfalto. A energia desapareceu lentamente da lâmina.`,
+            
+            `Durante alguns segundos observou os destroços espalhados pela rua. Não havia satisfação em seu rosto. Nem orgulho. Nem euforia. Apenas concentração. Porque ainda não tinha terminado.`,
+            
+            `Ao longe, outro estrondo ecoou entre os prédios. Mais fumaça. Mais destruição. Mais pessoas em perigo. Ele ergueu os olhos para o horizonte e correu novamente. Dessa vez ainda mais rápido, como um raio atravessando a cidade. Como uma sombra azul saltando entre os telhados.`,
+            
+            `Porque pela primeira vez desde que deixara a floresta, Yugidame não estava lutando para sobreviver.`,
+            
+            `Estava lutando por alguém além de si mesmo.`, `E aquela diferença tornava cada movimento mais leve, mais preciso e mais poderoso do que qualquer treinamento jamais poderia ensinar.`
+        ]
+    },
+    
+    {
+        tipo: "imagem",
+        imagem: [
+            "assets/ilustracoes/cen11-cap3.webp"
+        ]
+    },
+    
+    {
+        tipo: "imagem",
+        imagem: [
+            "assets/ilustracoes/cen12-cap3.webp"
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `A evacuação estava quase no fim quando Wynna ouviu o choro. No começo, pensou que fosse apenas mais uma voz misturada ao ruído da multidão, mas havia algo diferente naquele som: não era o grito de alguém correndo, nem o chamado de uma mãe procurando o filho, nem o desespero confuso de quem não sabia para onde ir. Era um choro preso, abafado, repetido no mesmo lugar.`,
+            
+            `Ela parou no meio da rua coberta de poeira e olhou para trás. Perto da entrada destruída de uma pequena papelaria, entre uma placa metálica caída e pedaços de concreto quebrado, um garoto tentava puxar o próprio braço, mas não se movia de verdade. Tremia mais do que lutava. Os olhos estavam arregalados, perdidos, como se o corpo inteiro tivesse esquecido que ainda podia obedecer.`,
+            
+            `Wynna correu antes que alguém pudesse impedi-la. Kazuki percebeu o movimento e virou o rosto na mesma hora, mas havia gente demais para atravessar, mãos demais para guiar, pessoas demais ainda fora do abrigo. Ele deu um passo como se fosse chamá-la, mas conteve a voz. Conhecia Wynna o suficiente para saber que ela não voltaria por imprudência; voltaria porque alguém precisava dela.`
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `Mesmo assim, seus olhos verdes acompanharam cada passo dela por entre os escombros, enquanto sua mão continuava indicando a passagem estreita para os últimos civis. O abrigo subterrâneo ainda recebia pessoas, uma por uma, engolindo-as pela escadaria reforçada como se fosse a única boca segura da cidade.`,
+            
+            `Quando Wynna chegou ao garoto, não tentou puxá-lo de imediato. Ajoelhou-se na frente dele, mesmo com a poeira sujando sua saia, mesmo com pequenas pedras rolando ao redor e o chão vibrando sob os joelhos. Ela colocou as mãos nos ombros da criança e fez com que ele olhasse para ela. O menino tentava falar, mas só saíam soluços.`,
+            
+            `Wynna respirou junto com ele, devagar, como se emprestasse ao garoto o próprio ritmo. Seu rosto estava pálido de medo, mas sua voz saiu baixa e firme. Primeiro fez o menino perceber que conseguia mexer os dedos. Depois o pulso. Depois o cotovelo. A placa não o esmagava; apenas prendia uma parte da manga e apertava o espaço ao redor. O medo havia feito o resto. Quando ele finalmente entendeu isso, chorou ainda mais, mas agora havia movimento no choro. Havia vida voltando ao corpo.`
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `Com cuidado, Wynna empurrou a peça metálica o suficiente para liberar o tecido preso. O garoto escapou quase tropeçando, e ela o segurou antes que caísse. Por um segundo, ele agarrou sua mão com toda a força que tinha, como se não quisesse soltar a única coisa real naquele mundo quebrado. Wynna sorriu para ele, um sorriso pequeno, cansado, mas verdadeiro, e apontou para a entrada do abrigo.`,
+            `O menino correu. Kazuki, vendo-o se aproximar, abriu espaço entre os últimos grupos e o recebeu com uma mão no ombro, conduzindo-o para dentro sem perder tempo. Foi uma vitória mínima, quase invisível diante da cidade em ruínas, mas para Wynna bastou para que seu coração respirasse uma vez.`,
+            `Então a luz sumiu.`,
+            `Não de repente, mas como uma cortina pesada descendo sobre ela. Wynna percebeu primeiro a sombra no chão, depois o silêncio estranho das pessoas à distância, depois o som úmido e bruto de algo enorme se arrastando entre os escombros. Virou-se devagar. Um Sintético Rastejante havia surgido por trás de uma construção caída, baixo demais para ser visto antes, largo demais para parecer natural. Movia-se apoiado em braços deformados, com o tronco inclinado para frente e a cabeça quase sem rosto pendendo entre os ombros.`
+        ]
+    },
+    
+    {
+        tipo: "texto",
+        conteudo: [
+            `Não era majestoso como os Brutos. Era pior. Parecia uma coisa feita para se arrastar por lugares estreitos, para aparecer onde ninguém esperava, para esmagar tudo sem sequer compreender o que esmagava.`,
+            
+            `A mão dele já estava erguida. Não preparando o golpe. Descendo.`,
+            
+            `Wynna não teve tempo de correr. Não teve tempo de gritar. Não teve tempo de pensar em uma saída. Apenas viu a massa escura cobrindo o céu acima dela, os dedos grossos e irregulares abrindo-se como pedras prestes a cair, a poeira se acumulando nas bordas da luz, os pequenos fragmentos suspensos no ar.`,
+            
+            `Seu corpo entendeu antes da mente. Não conseguiria. Não havia velocidade suficiente, distância suficiente, força suficiente. Pela primeira vez naquele dia, a esperança desapareceu de seu rosto, não em forma de desespero, mas de uma aceitação quieta e terrível.`,
+            `O impacto não veio.`, `Veio o vento.`, `Um deslocamento de ar tão rápido que levantou poeira, folhas queimadas e fragmentos leves do chão.`
         ]
     }
     
