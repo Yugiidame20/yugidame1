@@ -2051,5 +2051,108 @@ const capitulos = [
     ]
 },
 
+{
+    id:4,
+
+    numero:"CAPÍTULO 4",
+
+    titulo:"Entre Luzes e Cinzas",
+
+    descricao:
+    "Enquanto tudo parece voltar ao normal, Yugi, Wynna e Kazuki percebem que os eventos recentes fazem parte de algo muito maior.",
+
+    imagem:"Home_Imgs/cap4.webp",
+    
+    paginas: [
+        
+        {
+            tipo: "capa",
+            imagem: "Home_Imgs/cap4.webp"
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Vinte e oito horas depois do fim do desastre, a cidade ainda parecia respirar com dificuldade. As grandes avenidas já não estavam tomadas pelo pânico, mas também não haviam recuperado a tranquilidade de antes. Havia caminhões passando devagar, equipes recolhendo blocos partidos de concreto, postes remendados às pressas, fachadas cobertas por lonas e algumas janelas iluminadas como se ninguém ali dentro tivesse conseguido dormir direito desde a invasão.`,
+                
+                `Não havia mais correria. Não havia mais gritos. Mas havia aquele silêncio pesado que fica depois de um grande susto, quando todos falam baixo não por respeito, mas porque ainda não têm certeza se o perigo realmente passou. A noite era fria, mais fria do que deveria ser, e isso tornava tudo um pouco mais estranho. O vapor da respiração das pessoas aparecia no ar por alguns segundos antes de desaparecer, como pequenas nuvens pálidas, e ninguém comentava muito sobre isso, como se a cidade inteira estivesse exalando cansaço.`,
+                `Kazuki estava encostado próximo à entrada de uma pequena cafeteria de esquina, com as mãos nos bolsos do casaco verde-escuro e o olhar atento, embora tentasse fingir desinteresse.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `A luz branca e suave do letreiro iluminava parte de seu rosto, deixando os olhos verdes mais vivos sempre que ele olhava para a rua. Wynna estava ao lado dele, enrolada em um casaco claro, os cabelos castanhos caindo sobre os ombros e se movendo levemente com o vento frio.`,
+                `Ela tentava parecer calma, mas os dedos se apertavam uns contra os outros, e de vez em quando seus olhos rosa buscavam a mesma direção, como se esperassem que alguém surgisse de dentro da névoa fina que ainda pairava sobre a cidade.`,
+                
+                `— Ele disse que vinha — murmurou ela, mais para si mesma do que para Kazuki.`,
+                `Kazuki olhou para ela de lado.`
+                `— Eu sei.`,
+                `— E se ele tiver mudado de ideia?`,
+                `— Wynna, depois de destruir aqueles monstros em praça pública, acho que ele perdeu o direito de ser discreto.`,
+                `Ela tentou sorrir, mas não conseguiu inteiro. Seus olhos voltaram para a rua. Havia pessoas passando em pequenos grupos, algumas ainda carregando sacolas de emergência, outras apenas andando sem destino, tentando recuperar uma normalidade que parecia ter sido arrancada do chão junto com os prédios.`,
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `— Não foi isso que eu quis dizer.`,
+                
+                `Kazuki finalmente a encarou. O tom dele ficou menos leve, embora ainda carregasse aquele jeito de quem preferia não deixar o sentimento aparecer completamente.`,
+                
+                `— Eu sei. Mas se ele sobreviveu a tudo aquilo, vai sobreviver a uma conversa com a gente.`,
+                
+                `Wynna abaixou os olhos por um instante. Havia algo quase infantil naquele medo, não por imaturidade, mas porque certas esperanças, quando ficam tempo demais presas dentro da pessoa, voltam a parecer frágeis quando estão prestes a se realizar.`
+            ]
+        },
+        
+        {
+            tipo: "imagem",
+            imagem: [
+            "assets/ilustracoes/"
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Então ela o viu.`,
+                `No começo era apenas uma silhueta caminhando do outro lado da rua, sob a luz irregular dos postes e a neblina fina que restava entre os prédios. O capuz estava abaixado. O cabelo preto, um pouco mais curto do que ela lembrava, balançava com o vento frio. A espada estava presa ao lado do corpo, parcialmente escondida pelo casaco escuro.`,
+                
+                `Ele não vinha como alguém que acabara de salvar uma cidade. Vinha devagar, cansado, com passos firmes, mas silenciosos; e havia nele uma distância estranha, como se a floresta ainda caminhasse alguns metros atrás.`,
+                
+                `Wynna não se moveu de imediato. Apenas ficou olhando. O coração apertou de um jeito quase doloroso, como se o corpo precisasse decidir se aquilo era real ou apenas mais uma imagem formada pelo medo de perdê-lo outra vez. Ela deu um passo. Depois outro. Como se ainda precisasse se aproximar de uma lembrança sem assustá-la. Yugi ergueu os olhos e a reconheceu. Não sorriu de imediato, mas o rosto dele suavizou. Foi isso que bastou.`,
+                
+                `Ela correu.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Não correu como durante a invasão, com urgência e medo; correu como alguém que finalmente encontrou a única resposta que ainda precisava. Quando chegou até ele, lançou os braços ao redor de seu peito com tanta força que Yugi recuou meio passo.`,
+                
+                `Por um instante, ele pareceu não saber o que fazer com aquilo. As mãos ficaram suspensas no ar, incertas, como se tivessem aprendido a segurar uma espada, a escalar pedras, a conduzir raios, mas tivessem esquecido a simplicidade de abraçar alguém. Então, devagar, ele envolveu Wynna de volta.`,
+                
+                `Ela não disse nada. O rosto estava escondido contra o casaco dele, e os ombros tremiam. Yugi baixou um pouco a cabeça, os olhos laranja fechando por um breve momento. Sentiu o calor dela atravessando o tecido frio de seu casaco e, por um momento, a cidade destruída, os Sintéticos, o símbolo vermelho, a voz de Nikidame no fundo de sua mente — tudo ficou distante. Havia apenas aquela presença pequena e real em seus braços, tremendo como alguém que havia esperado tempo demais.`,
+                
+                `Kazuki se aproximou depois de alguns segundos. Parou ao lado deles, olhou para o céu, depois para o letreiro da cafeteria, depois para os dois novamente.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `— Só avisando — disse, num tom casual demais para a cena —, se vocês congelarem aí fora, eu vou entrar e pedir primeiro.`,
+                
+                `Wynna soltou uma risada pequena no meio do choro e se afastou um pouco, limpando rapidamente o rosto com a manga do casaco. Yugi olhou para Kazuki. Os dois ficaram em silêncio. Não houve abraço, nem declaração, nem gesto exagerado. Kazuki apenas ergueu a mão. Yugi tocou a mão dele com firmeza, e o cumprimento durou um pouco mais do que duraria antes.`
+            ]
+        }
+        
+    ]
+
+}
 ];
 
