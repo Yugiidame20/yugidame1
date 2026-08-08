@@ -2087,7 +2087,7 @@ const capitulos = [
                 `Ela tentava parecer calma, mas os dedos se apertavam uns contra os outros, e de vez em quando seus olhos rosa buscavam a mesma direção, como se esperassem que alguém surgisse de dentro da névoa fina que ainda pairava sobre a cidade.`,
                 
                 `— Ele disse que vinha — murmurou ela, mais para si mesma do que para Kazuki.`,
-                `Kazuki olhou para ela de lado.`
+                `Kazuki olhou para ela de lado.`,
                 `— Eu sei.`,
                 `— E se ele tiver mudado de ideia?`,
                 `— Wynna, depois de destruir aqueles monstros em praça pública, acho que ele perdeu o direito de ser discreto.`,
@@ -2147,7 +2147,349 @@ const capitulos = [
             conteudo: [
                 `— Só avisando — disse, num tom casual demais para a cena —, se vocês congelarem aí fora, eu vou entrar e pedir primeiro.`,
                 
-                `Wynna soltou uma risada pequena no meio do choro e se afastou um pouco, limpando rapidamente o rosto com a manga do casaco. Yugi olhou para Kazuki. Os dois ficaram em silêncio. Não houve abraço, nem declaração, nem gesto exagerado. Kazuki apenas ergueu a mão. Yugi tocou a mão dele com firmeza, e o cumprimento durou um pouco mais do que duraria antes.`
+                `Wynna soltou uma risada pequena no meio do choro e se afastou um pouco, limpando rapidamente o rosto com a manga do casaco. Yugi olhou para Kazuki. Os dois ficaram em silêncio. Não houve abraço, nem declaração, nem gesto exagerado. Kazuki apenas ergueu a mão. Yugi tocou a mão dele com firmeza, e o cumprimento durou um pouco mais do que duraria antes.`,
+                
+                `— Demorou — disse Kazuki.`,
+                `Yugi respondeu baixo:`,
+                `— Eu sei.`,
+                `Kazuki sustentou o olhar por um instante, depois sorriu de canto.`,
+                `— Pelo menos voltou fazendo barulho.`,
+                `Yugi deixou escapar um sorriso breve.`,
+                `— Não era o plano.`,
+                `— Nunca é.`
+            ]
+        },
+        
+        {
+            tipo: "imgem",
+            imagem: 
+                ["assets/ilustracoes/"]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Os três entraram na cafeteria juntos. O sino acima da porta tocou com um som limpo, quase delicado, e o contraste foi imediato. Do lado de fora, a cidade fria e ferida; do lado de dentro, luz branca suave, mesas de madeira, cheiro de café, pão aquecido e casacos úmidos secando nas cadeiras.`,
+                
+                `Havia poucas pessoas ali, todas falando baixo, como se a cidade inteira tivesse aprendido a reduzir o volume depois do que acontecera. Eles escolheram uma mesa próxima à janela. Yugi sentou-se de frente para a porta, sem perceber. Kazuki percebeu. Wynna também, mas nenhum dos dois comentou.`,
+                
+                `Kazuki pegou o cardápio, olhou por dois segundos e depois baixou o papel, encarando Yugi com uma expressão de quem já havia descoberto algo grave.`,
+                
+                `— Eu vou fazer uma previsão.`,
+                
+                `Yugi nem olhou para ele.`,
+                
+                `— Não começa.`,
+                `— Você ainda nem sabe o que eu vou dizer.`,
+                `— Claro que sei. Vai dizer que eu vou pedir a mesma coisa.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Kazuki sorriu.`, `— E vai?`, `Yugi ficou em silêncio por um instante.`, `— Vou.`, `Wynna riu, agora com mais leveza.`,
+                
+                `— Depois de todo esse tempo?`, `— Continua sendo uma boa escolha.`, `Kazuki apontou para ele com o cardápio.`,
+                
+                `— Isso é assustador. O mundo muda, cidades caem, monstros aparecem, você some por mais de um ano, volta cortando gigantes ao meio... e ainda pede a mesma coisa.`,
+                
+                `Yugi deu de ombros. — Algumas coisas funcionam.`,
+                
+                `— Essa frase tem a energia de alguém que escolheria a mesma roupa por dez anos.`,
+                
+                `Wynna olhou para o casaco escuro dele. — Kazuki...`,
+                
+                `Kazuki abriu as mãos. — Estou errado ?`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Yugi olhou para a própria roupa, depois para Kazuki.`,
+                
+                `— Você também não mudou tanto.`, `— Eu evoluí.`, `— Para quê?`, `— Uma versão mais difícil de ignorar.`,
+                
+                `Yugi sorriu de verdade dessa vez. Foi pequeno, quase discreto, mas Wynna viu. E por ter visto, sorriu também.`
+            ]
+        },
+        
+        {
+            tipo: "imagem",
+            imagem: [
+                "assets/ilustracoes/xxxx.webp"
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Quando os pedidos chegaram, a conversa começou sem a solenidade que todos temiam. Kazuki falou primeiro sobre pequenas coisas: a reforma malfeita da escola, o professor que insistia em dar aula mesmo com metade da sala vazia, a vez em que Wynna foi confundida com funcionária em um mercado e, por vergonha de corrigir uma senhora idosa, acabou ajudando três pessoas a encontrar produtos.`,
+                
+                `Wynna protestou, dizendo que aquilo havia sido educação, não vergonha. Kazuki respondeu que educação não costumava incluir organizar uma prateleira inteira de cereais. Yugi ouviu tudo com atenção silenciosa, como se cada detalhe comum tivesse mais valor do que os dois imaginavam.`,
+                
+                `Em algum ponto, o nome de Ryota surgiu sem ser chamado diretamente. Kazuki estava comentando sobre os últimos meses de escola, sobre como algumas pessoas tinham mudado depois do incidente, quando fez uma pausa breve e olhou para Yugi.`,
+                
+                `— Ryota foi um deles.`,
+                
+                `Yugi ergueu os olhos da xícara. Não pareceu zombar. Apenas ficou surpreso de um jeito quieto.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `— O que aconteceu com ele?`,
+                
+                `Kazuki girou o copo entre as mãos.`, `— Depois daquele dia, ele ficou suspenso. Não por pouco tempo. A direção tentou abafar, os pais dele apareceram, teve reunião, discussão, aquela encenação toda. Mas não dava para fingir que nada tinha acontecido. Todo mundo viu. Todo mundo soube. E quando ele voltou... a intimidação que ele colocava nos outros já não funcionava do mesmo jeito.`,
+                
+                `Wynna completou, com a voz mais suave:`,
+                
+                `— Ele ficou desmoralizado. Não no sentido cruel. Mas as pessoas pararam de vê-lo como alguém invencível. E acho que isso quebrou alguma coisa nele. Ou consertou.`,
+                
+                `Yugi ficou observando a superfície escura do café.`, `— Ele ficou pior?`,
+                
+                `Kazuki balançou a cabeça.  — Essa é a parte estranha. Não. Ficou mais quieto. Mais atento. As notas começaram a melhorar. Parou de andar cercado por gente tentando imitá-lo. Teve uma vez em que dois garotos menores estavam brigando perto do ginásio, e ele separou os dois antes de qualquer professor chegar.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Yugi olhou para ele, realmente surpreso.`, `— Ryota separou uma briga?`, `— Pois é. Eu também procurei sinais de possessão.`,
+                
+                `Wynna lançou um olhar de reprovação, mas não conseguiu esconder o sorriso.`,
+                
+                `Kazuki continuou:`, `— Não estou dizendo que virou um grande exemplo moral. Ele ainda é orgulhoso. Ainda fala como se estivesse sempre prestes a desafiar alguém para uma disputa inútil. Mas parece que começou a escolher melhor onde coloca a própria força.`,
+                
+                `Yugi permaneceu em silêncio por um momento. Depois respirou fundo.`,
+                
+                `— Talvez quase perder tudo faça isso com uma pessoa.`,
+                
+                `A frase pousou sobre a mesa com mais peso do que ele pretendia. Kazuki o observou com cuidado. Wynna também. Ninguém precisou perguntar se ele ainda estava falando de Ryota.`
+            ]
+        },
+        
+        {
+            tipo: "imagem",
+            imagem: [
+                "assets/ilustracoes/xxx.webp"
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Kazuki desviou o assunto com naturalidade, mas sem fugir dele`,
+                
+                `— Quando você partiu, aconteceu uma coisa curiosa. Nos primeiros dias, todo mundo falava de você o tempo inteiro. Depois as pessoas começaram a falar menos. Não porque esqueceram, mas porque não sabiam mais o que dizer. A escola seguiu. As provas vieram. Os professores continuaram cobrando tarefas como se o mundo não tivesse rachado no meio. E nós...`,
+                
+                `Ele olhou rapidamente para Wynna.`, `— Nós tivemos que nos acostumar.`,
+                
+                `Wynna mexeu devagar na colher dentro da xícara.`,
+                `— Não foi fácil. Tinha dias em que parecia que você ia aparecer na esquina, como se tivesse faltado aula por algum motivo idiota. Depois isso foi ficando menos provável. E mais pesado.`,
+                
+                `Yugi não interrompeu.`,
+                
+                `— Nós terminamos os estudos — ela continuou. — Fizemos algumas viagens curtas para cidades vizinhas. Nada grande. Algumas situações estranhas começaram a acontecer com mais frequência. [...]`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `— [...] Tremores pequenos. Relatos de pessoas desaparecidas. Animais agitados. Coisas que pareciam não se conectar. Kazuki dizia que talvez fosse só paranoia coletiva.`,
+                
+                `Kazuki levantou um dedo.`,`— Eu disse“ talvez”.`,`— Disse rindo.`,`— Rir não invalida uma hipótese.`,
+                
+                `Yugi olhou para os dois, e havia uma ternura discreta na expressão dele. Não era felicidade pura. Era algo mais complexo: a dor de perceber que a vida seguiu sem ele, misturada ao alívio de ver que os dois sobreviveram.`,
+                
+                `Wynna então ergueu os olhos.`,
+                `— E você? Como foi todo esse tempo?`,
+                
+                `A pergunta veio simples, mas mudou o ar da mesa. Yugi segurou a xícara com as duas mãos, como se precisasse do calor para organizar as lembranças.`,
+                
+                `— Vocês lembram da briga.`,
+                `Kazuki ficou sério. Wynna baixou um pouco o olhar.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `— Eu lembro de cada segundo antes dela — disse Yugi. — A raiva não veio de uma vez. Ela foi juntando. Como pressão. Eu sentia que tinha algo dentro de mim empurrando, e quanto mais eu tentava segurar, mais forte ficava. Naquele momento, quando avancei, eu não pensei em consequência. Não pensei em Ryota. Não pensei em vocês. Só pensei que precisava fazer aquilo parar.`,
+                
+                `Ele respirou devagar.`, `— Depois veio o medo. Não medo dele. Medo de mim.`,
+                
+                `A rua do lado de fora estava quase vazia agora. Um carro de manutenção passou devagar, lançando luz branca sobre a janela. Por um instante, o reflexo atravessou o rosto de Yugi.`,
+                
+                `— Quando corri para a floresta, eu não estava indo para lugar nenhum. Só queria me afastar. Da cidade, das pessoas, do que tinha acontecido. Nos primeiros dias eu sobrevivi mal. Muito mal. Eu não sabia onde dormir. Não sabia o que podia comer. Me machuquei tentando atravessar lugares que não entendia. Fiquei doente uma vez. Passei fome mais vezes do que quero admitir.`,
+                
+                `Kazuki não fez piada. Yugi continuou:`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `— Mas a floresta não me deixou continuar sendo quem eu era. Lá, se eu agisse por orgulho, eu me feria. Se eu agisse por impulso, quase morria. Se eu tentasse vencer tudo pela força, perdia. Demorei para entender que aquilo não era treinamento. Era humilhação. No sentido mais literal possível. A floresta me obrigou a quebrar a ideia que eu tinha de mim mesmo.`,
+                
+                `Wynna falou baixo:`,`— Que ideia?`,`Yugi olhou para ela.`,`— De que eu precisava controlar tudo.`,`Ele fez uma pausa.`,
+                
+                `— Quando minha mente começou a ficar limpa, não calma, limpa, foi quando percebi a presença.`,
+                
+                `Kazuki se inclinou um pouco. — Que presença?`,
+                
+                `— Desde a primeira noite perto da cachoeira, eu senti que não estava sozinho. Não era alguém andando atrás de mim. Não era um animal. Era algo dentro. Ou abaixo. Como se existisse um lugar no fundo da minha própria mente que eu nunca tinha visitado, e alguma coisa gigantesca respirasse ali.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Wynna ficou imóvel. Yugi Continuou`,
+                
+                `— Seu nome era "Nikidame". Naquele momento, Eu não sabia o nome ainda. No começo era só uma sombra. Uma pressão. Às vezes eu sonhava com olhos laranja no escuro. Às vezes acordava com a sensação de que alguém tinha acabado de falar comigo, mas sem palavras. Depois, quando aprendi a entrar naquele estado de silêncio, comecei a ouvir melhor.`,
+                
+                `Kazuki franziu o cenho. — Silêncio como meditação?`,
+                
+                `— Parecido. Mas não era relaxar. Era tirar o ruído. Medo, raiva, vergonha, vontade de provar alguma coisa. Tudo isso me impedia de perceber o que estava acontecendo. Quando eu parava de lutar contra a própria mente, conseguia sentir a eletricidade sem me queimar por dentro. Conseguia conduzir, não expulsar. Conseguia usar a espada como extensão do corpo. Conseguia saltar sem perder o eixo. Cair sem entrar em pânico. Reagir antes de pensar demais.`,
+                
+                `Kazuki olhou para a mão de Yugi. — Então o controle veio da clareza. Não da força.`,
+                
+                `— Sim. – Disse Yugidame
+                 — A força ajudou. Mas sem clareza ela só destruía tudo ao redor.`,
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Wynna demorou alguns segundos antes de perguntar:`,`— E o que exatamente é Nikidame?`,
+                
+                `Yugi ficou em silêncio por tempo suficiente para mostrar que ainda não tinha uma resposta completa.`,
+                
+                `— Ele é uma criatura. Mas não como as daqui. Eu só consigo vê-lo por partes. Um rosto. Garras. Chamas azuis. Um corpo tão grande que a minha mente parece não conseguir formar inteiro. É como se ele pertencesse a uma realidade sobreposta à nossa. Próxima o suficiente para tocar, distante demais para compreender totalmente.`,
+                
+                `Kazuki estava absolutamente atento agora. — E ele se chama assim, Nikidame?`,
+                
+                `— Ele se apresentou assim. Ou talvez eu tenha entendido assim. Ainda não sei a diferença.`,
+                
+                `— E “Dame”?`, `— É o que eles são. Ou o que chamam a si mesmos. Não são espíritos protetores. Não são monstros comuns. Não são deuses. Pelo menos Niki odiaria essa comparação, embora provavelmente gostasse do elogio.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Kazuki soltou um sopro pelo nariz. — Parece simpático.`, `— Ele não é.`,
+                
+                `Wynna perguntou:`, `— Ele te ajuda? Ou quer te proteger?`, `Yugi pensou antes de responder.`, `— Não exatamente.`,
+                `— Então por que fica?`,
+                `Yugi olhou para a janela.`,
+                
+                `— Porque estamos presos um ao outro. E porque, de algum jeito, o que eu faço afeta ele. O que ele sente me afeta. Não somos amigos. Não ainda. Também não somos inimigos. É mais como dividir o mesmo teto com alguém que acha que humanos são uma espécie barulhenta, autodestrutiva e pouco confiável.`,
+                
+                `Kazuki ergueu as sobrancelhas. — Ele está errado?`,
+                
+                `Yugi olhou para ele.`, `— Não. Eu disse isso a ele uma vez.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Wynna sorriu, mas havia inquietação em seu olhar.`,`— Então você não está sozinho.`,`Yugi demorou um pouco para responder.`,`— Não. Mas isso nem sempre é confortável.`,
+                
+                `Kazuki ficou em silêncio por alguns segundos, processando. Depois apoiou as costas na cadeira.`,
+                
+                `— Existem registros de pessoas com dons incomuns. Não como isso, mas existem. Famílias que transmitem habilidades físicas absurdas. Povos capazes de desenvolver técnicas ligadas a fenômenos naturais. Casos isolados depois de acidentes. Os Gigantes entram nessa categoria de algum modo: pessoas comuns alteradas por uma substância que ninguém entende direito.`,
+                
+                `Yugi olhou para ele. — Você estudou isso ?`, `— Eu gosto de saber o que pode me matar.`,`— Saudável.`,`— Muito.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Wynna olhou pela janela. Do outro lado da rua, além dos reflexos da cafeteria, havia uma fachada rachada e um trecho de calçada arrancado.`,
+                
+                `— Mas os de ontem não pareciam gigantes reais.`,
+                
+                `Kazuki assentiu.`, `— Gigantes reais continuam parecendo vivos. Mesmo quando são perigosos. Há instinto, dor, medo, hesitação. Aqueles não tinham nada disso.`,
+                
+                `— Pareciam humanos só o bastante para assustar — disse Wynna. — Mas vazios demais para serem humanos.`,
+                
+                `Kazuki completou:`, `— Como se alguém tivesse tentado fabricar gigantes sem entender o que torna uma vida viva. Uma cópia grosseira. Sintéticos.`,
+                
+                `A palavra pareceu encaixar com desconforto. Yugi a repetiu quase sem voz:`,
+                
+                `— Sintéticos...`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Então levou a mão ao bolso interno do casaco e retirou um papel dobrado. Abriu sobre a mesa. Sobre ele havia a reprodução do símbolo vermelho encontrado nos destroços do último monstro: traços opacos, levemente desgastados, parecidos com uma caligrafia antiga e ao mesmo tempo tortos demais para serem apenas escrita comum.`,
+                
+                `Não era uma letra. Não exatamente. Parecia uma assinatura deixada por alguém que queria ser reconhecido apenas por quem soubesse procurar.`,
+                
+                `Wynna ficou pálida.`,
+                `— Espera.`,
+                
+                `Ela abriu a mochila que carregava junto ao banco e retirou de dentro um caderno grosso, gasto nas bordas, cheio de pequenos papéis marcando páginas.`,
+                
+                `Folheou depressa: recortes de jornais, fotos impressas, mapas rabiscados, datas, nomes de cidades, pequenas anotações em caneta rosa, azul e preta. Parou em uma página perto do meio. Ali havia a foto de uma parede queimada após um incêndio antigo. No canto da imagem, quase apagada pela fuligem, aparecia uma marca vermelha semelhante. Não igual. Mas próxima demais para ser ignorada.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `— Eu já vi algo parecido.`,`Kazuki olhou para ela.`,`— Onde?`,
+                
+                `— Não sei se era exatamente esse símbolo. Mas marcas assim apareceram em registros de outros desastres. Incêndios, desaparecimentos, ataques sem explicação. Eu lembro de ter visto fotos em arquivos públicos e reportagens antigas. Sempre havia algum detalhe parecido. Um traço vermelho. Uma marca incompleta. Algo que as autoridades tratavam como vandalismo ou coincidência.`,
+                
+                `Yugi manteve os olhos fixos no papel. — Então não começou ontem.`, `Ninguém respondeu. Porque aquela era a primeira conclusão real da noite.`,
+                
+                `A cafeteria, antes calorosa, pareceu menor. A noite do lado de fora pareceu mais fria. E a cidade reconstruída às pressas, vista através da janela, já não parecia apenas uma cidade que havia sobrevivido a uma invasão. Parecia uma cidade que, sem saber, havia acabado de ser marcada.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Quando saíram, algum tempo depois, a rua estava quase vazia. A luz dos postes se refletia em poças rasas deixadas pela limpeza das calçadas, e o vento passava entre os prédios com um som baixo. Os três caminharam lado a lado. A respiração deles subia em pequenas nuvens brancas, claras demais contra a noite escura.`,
+                
+                `Kazuki foi o primeiro a falar.`,
+                `— Se essas marcas aparecem em outros lugares, então alguém vem testando alguma coisa há muito tempo.`,
+                
+                `Yugi olhou para frente.`,`— E ontem eu apareci no meio do teste.`,
+                
+                `— Não só apareceu — disse Kazuki. — Você estragou o resultado.`,`Wynna apertou o caderno contra o peito.`,`— Isso significa que podem vir atrás de você.`,
+                
+                `Yugi não respondeu de imediato. Kazuki parou de andar e enfiou as mãos nos bolsos.`, `— Então vamos fazer do jeito certo.`
+            ]
+        },
+        
+        {
+            tipo: "texto",
+            conteudo: [
+                `Yugi virou o rosto.`,`— O que quer dizer?`,`Kazuki sorriu de canto. Mas não era brincadeira. Os olhos verdes estavam afiados.`,
+                
+                `— Quer dizer que não sabemos o tamanho do problema. Não sabemos quem está por trás. Não sabemos se esses Sintéticos foram o começo ou só um recado. Mas se você está no centro disso agora, precisa entender exatamente do que é capaz.`,
+                
+                `Wynna ficou ao lado dos dois, o olhar sério. Kazuki continuou:`,
+                
+                `— E nós precisamos entender o que estamos procurando.`,
+                
+                `Yugi olhou para os dois por alguns segundos. A cidade estava ferida. A noite estava fria demais. O mistério era grande demais. Mas, pela primeira vez desde que havia corrido para dentro da floresta, ele não sentia que precisava carregar aquilo sozinho.`,
+                
+                `Os três olharam para frente.
+
+E o vapor de suas respirações desapareceu no escuro, como se a própria noite estivesse recolhendo o último calor antes do próximo movimento começar.`
             ]
         }
         
