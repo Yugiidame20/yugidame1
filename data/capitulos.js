@@ -2111,8 +2111,7 @@ const capitulos = [
         {
             tipo: "imagem",
             imagem: [
-            "assets/ilustracoes/"
-            ]
+            "assets/ilustracoes/cen1-cap4.webp"]
         },
         
         {
